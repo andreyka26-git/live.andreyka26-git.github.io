@@ -2,10 +2,10 @@
 layout: post
 title: "Surgery & health care experience in Prague pt1: appendicitis"
 date: 2023-03-24 11:02:35 -0000
-category: ["Authorization guides"]
-tags: [authorization]
+category: ["Healthcare"]
+tags: [healthcare]
 description: "In this article we will consider the healthcare system that I have tested in Prague (Czech Republic) having appendecitis here with complication surgery. I will review quality, prices, healthcare services, recovery, symptoms, etc"
-thumbnail: /assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/logo.jpg
+thumbnail: /assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/logo.png
 thumbnailwide: /assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/logo-wide.png
 ---
 <br>
@@ -72,7 +72,7 @@ Conversion notes:
 
 ## **Why you may want to read this article**
 
-I am a Software Engineer at Microsoft that was born in Ukraine and relocated to Prague in 2022, now it is about 1 year since I relocated. 
+I am a Software Engineer at Microsoft that was born in Ukraine and relocated to Prague in 2022, now it is about 1 year since I relocated.
 
 Lately, in Prague, `I had appendicitis that ended with surgery, then I had another complication surgery`. Besides that, I had a couple of surgeries in Ukraine.
 
@@ -81,7 +81,7 @@ Unfortunately, usually, people rate healthcare by money (e.g. it is great - you 
 
 I am more thorough in healthcare rating and overview because good healthcare keeps me feeling safe and happy. Usually, I prefer overview healthcare first of all by quality, waiting time, and then money (maybe this is because I am not living in USA xD).
 
-This article will be useful if you are relocating to Prague, or considering relocating here - because I will provide `my experience of emergent surgery` in detail covering: 
+This article will be useful if you are relocating to Prague, or considering relocating here - because I will provide `my experience of emergent surgery` in detail covering:
 
 
 
@@ -96,24 +96,29 @@ On top of that, I am an experienced carrier of chronicle problems with my stomac
 
 All the documentation I will present here is in Czech Language. I will put  reference to translation in English from Google Translator, so it is not 100% accurate but those who are interested will get the idea.
 
+<br>
 
 ## **Healthcare and Insurance flow**
 
 Let me describe the general flow of health care for me at Microsoft in Czech Republic.
 
 
+<br>
+
 ### **Insurance**
 
-There is one kind of monopolistic insurance - VZP insurance - well recognized in Czech Republic. It has private and public insurance. 
+There is one kind of monopolistic insurance - VZP insurance - well recognized in Czech Republic. It has private and public insurance.
 
 Since I am an employee at Microsoft I must be enrolled in public VZP insurance (that is paid by employer). Public VZP insurance covers almost everything except cosmetic stuff and some dentist services.
 
-I have heard stories from people when doctors did not accept them because they did not have VZP. Although I have heard stories that people asked to pay by themselves - and were accepted. 
+I have heard stories from people when doctors did not accept them because they did not have VZP. Although I have heard stories that people asked to pay by themselves - and were accepted.
 
 I cannot say for sure, because I had only one situation when I paid by myself in hospital (when I was in Prague as a tourist). I was accepted by doctor, but they did not do blood tests that they needed, because I did not have family doctor. For 1 visit I paid about 100-150 dollars.
 
 During this story, I paid nothing for the healthcare services I got except the pharmacy I bought for use at home (antiseptic, bandages, painkillers).
 
+
+<br>
 
 ### **Additional private clinic**
 
@@ -124,23 +129,33 @@ But it is not totally private self-contained clinic. I have my family doctor her
 In case of emergencies, it is almost always public emergency hospitals. Since H Plus has contract with Microsoft - they have emergency line as well (English speaking). This emergency line will tell you what to do, where to go, etc.
 
 
+<br>
+
 ## **First Surgery - Appendecitis**
 
 I started my sick leave at work earlier before surgery, so let me put this in chronological order.
 
+
+<br>
 
 ### **20.12.2022**
 
 I got cold, coughing, fever, running nose. I got sick leave at work.
 
 
+<br>
+
 ### **25.12.2022**
 
 I almost recovered, symptoms were disappearing.
 
 
+<br>
+
 ### **26.12.2022**
 
+
+<br>
 
 #### **Symptoms**
 
@@ -171,11 +186,13 @@ If somebody needs it - [there](https://www.google.com/maps/place/50%C2%B004'32.3
 As I understood this is not an emergency department, but rather a regular surgery department, but maybe I am wrong.
 
 
+<br>
+
 #### **Arrived at the hospital**
 
 **At 11:30** - I arrived at the Hospital by taxi. By the time I have arrived - the pain increased to 25 out of 100.
 
-I am from Ukraine, on the reception, luckily,  I met a Ukrainian lady as well. 
+I am from Ukraine, on the reception, luckily,  I met a Ukrainian lady as well.
 
 It was fun, I started explaining everything in English - and she replied with “з України? Апендицит? Йдемо зі мною” (from Ukraine? Appendicitis? Come with me).
 
@@ -192,6 +209,8 @@ By that time I felt about 35 out of 100 points of pain in the right low part of 
 But to make sure it was decided to do an ultrasound.
 
 
+<br>
+
 #### **Ultrasound & surgery preparation**
 
 It was a holiday. I was supposed to get an ultrasound check, and since there were other patients - for the doctor - they put me in a wheelchair to wait outside.
@@ -200,11 +219,13 @@ I waited for an ultrasound for about 40 minutes, I measured. By that time the pa
 
 It was funny, cause regular patients were staring at me and waiting for the doctor, and I did not know where is the ultrasound, will the doctor come for me, etc.
 
-**At 13:30 **- I got the final diagnosis - appendicitis. They brought me to the hospital’s room. I changed clothes to those ones needed for surgery. At that point, for some reason, I vomited.
+**At 13:30** - I got the final diagnosis - appendicitis. They brought me to the hospital’s room. I changed clothes to those ones needed for surgery. At that point, for some reason, I vomited.
 
 I eventually got painkillers.
 
 
+
+<br>
 
 #### **Surgery & after anesthesia**
 
@@ -220,7 +241,7 @@ I eventually got painkillers.
 [![alt_text](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image8.png "image_tooltip")](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image8.png "image_tooltip"){:target="_blank"}
 
 
-Report about [appendicitis surgery pt1 in English](https://d2022-12-26_appendicitis1)
+Report about [appendicitis surgery pt1 in English](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/2022-12-26_appendicitis1_en.docx){:target="_blank"}
 
 
 [![alt_text](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image6.png "image_tooltip")](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image6.png "image_tooltip"){:target="_blank"}
@@ -228,7 +249,7 @@ Report about [appendicitis surgery pt1 in English](https://d2022-12-26_appendici
 
 By blue color, I circled the medication that I was getting. I will get back to this later.
 
-Report about [appendicitis surgery pt2 in English](d2022-12-26_appendicitis2)
+Report about [appendicitis surgery pt2 in English](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/2022-12-26_appendicitis2_en.docx){:target="_blank"}
 
 
 [![alt_text](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image2.png "image_tooltip")](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image2.png "image_tooltip"){:target="_blank"}
@@ -236,7 +257,7 @@ Report about [appendicitis surgery pt2 in English](d2022-12-26_appendicitis2)
 
 In these reports, you could see my state, test results, etc. I would like to emphasize a few things.
 
-`Diagnosis`: 
+`Diagnosis`:
 
 
 
@@ -254,9 +275,11 @@ Other specified postoperative conditions - to be honest, I don’t know what it 
 Inflammation of the esophagus - this diagnosis was concluded from my complaints since by that time I was taking [Rapoxol](https://en.wikipedia.org/wiki/Rabeprazole) due to chronic problems with stomach.
 
 
+<br>
+
 #### **After surgery medication**
 
-My surgeon told me that the appendicitis was really inflamed. In the next complication surgery I got the appendicitis diagnosis stated as:  `flegmonogangrenozni appendicitis` (you will see in the article about complication surgery). 
+My surgeon told me that the appendicitis was really inflamed. In the next complication surgery I got the appendicitis diagnosis stated as:  `flegmonogangrenozni appendicitis` (you will see in the article about complication surgery).
 
 I did not find really what flegmono (phlegmono) means, but gangrenous means that appendix tissue was gangrenous a little bit.
 
@@ -283,54 +306,43 @@ According to the report (circled in blue color) I got:
 Since it is not my first surgery I knew some surgeons from Ukraine that did surgeries for me. For sure I asked all possible opinions on it.
 
 
+<br>
+
 ##### **Suspicion 1**
 
-```
 
-I have some doubts regarding antibiotic treatment, I have read from some sources, that gangrenous appendicitis should be treated with antibiotics therapy to ensure everything is okay. 
 
-In the report, it states that I actually got the antibiotics, but I have asked the nurses and doctor whether I’m getting some antibiotics along with painkillers and the answer was clear - no.
+`I have some doubts regarding antibiotic treatment, I have read from some sources, that gangrenous appendicitis should be treated with antibiotics therapy to ensure everything is okay. In the report, it states that I actually got the antibiotics, but I have asked the nurses and doctor whether I’m getting some antibiotics along with painkillers and the answer was clear - no. If It was one dose right after the surgery - I have heard about the practice of having a full antibiotic course after surgery, especially for gangrenous appendicitis. I am not a doctor - so you can check on your own how it should be, I just share my thoughts by that time. Each day I had bandaging, the doctor checked the wound and my health state.`
 
-If It was one dose right after the surgery - I have heard about the practice of having a full antibiotic course after surgery, especially for gangrenous appendicitis.
 
-I am not a doctor - so you can check on your own how it should be, I just share my thoughts by that time.
-
-```
-
-Each day I had bandaging, the doctor checked the wound and my health state.
-
+<br>
 
 ### **28.12.2022**
 
 This is what the wound looked like on 28th of Dec.
 
+Not blurred image [here](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image7.png){:target="_blank"}
+[![alt_text](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image7.1.png "image_tooltip")](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image7.1.png "image_tooltip"){:target="_blank"}
 
-[![alt_text](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image7.png "image_tooltip")](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image7.png "image_tooltip"){:target="_blank"}
 
 
+<br>
 
 ### **30.12.2022**
 
 This is what the wound looked like on 30th of Dec.
 
 
-[![alt_text](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image4.png "image_tooltip")](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image4.png "image_tooltip"){:target="_blank"}
+Not blurred image [here](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image4.png){:target="_blank"}
+[![alt_text](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image4.1.png "image_tooltip")](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image4.1.png "image_tooltip"){:target="_blank"}
 
 
+
+<br>
 
 ##### **Suspicion 2**
 
-```
-
-I wanted to go shower for sure, we had one in hospital room (I will overview hospital utilities later). For sure I asked whether I can do that, what can I wash, and what I must not.
-
-The answer was: you can wash the wound but without the soap.
-
-My surgeons from Ukraine said that it is better not to pour any water on wound at all for now.
-
-This one I don’t know, I’m not a doctor - so you could check on your own, I am just sharing my thoughts by that time.
-
-```
+`I wanted to go shower for sure, we had one in hospital room (I will overview hospital utilities later). For sure I asked whether I can do that, what can I wash, and what I must not. The answer was: you can wash the wound but without the soap. My surgeons from Ukraine said that it is better not to pour any water on wound at all for now. This one I don’t know, I’m not a doctor - so you could check on your own, I am just sharing my thoughts by that time.`
 
  I got to home this day. I was instructed what I should do, and what I must not do. I bought antiseptics and bandages to do bandaging each day. The recommendation about the shower was the same - I can wet it without soup but with regular tap water.
 
@@ -345,29 +357,21 @@ On top of that, I have been prescribed painkillers (Novalgin) if I feel pain - t
 During my time at home, I did not do any physical exercises, followed the diet, and was getting better and better.
 
 
+<br>
+
 ##### **Suspicion 3**
 
-```
-
-My surgery happened on 26.12.2022 at about 16:00. On 28.12.2022 I was told that maybe tomorrow (29.12.2022) I can go home.
-Before that they asked me whether I am living alone or not, do I have any close relatives here, and I clearly said that I am living alone and that I will not have anybody to help me.
-
-
-I did not feel perfect, and I definitely did not feel independent in regard to taking care of myself. I could not take heavy stuff, so even lifting 3-4+ kg things was with the pain. I even couldn’t tie my laces.
-
-I clearly did not know how I am going to cook myself if I cannot walk more than 300-400m. How was I supposed to take all my stuff from the grocery shop if I was prohibited to lift anything at all?
-
-Anyway, I asked to prolong my stay one more day, and then on 30.12.2022 the emergency car brought me home(they don’t allow you to take a taxi without your close relative or friend with you that I really respect and am thankful for).
-
-I managed to find somebody to live with me and I am thankful to that person as well, but without this person, I don’t know what to do, to be honest.
-
-```
+`My surgery happened on 26.12.2022 at about 16:00. On 28.12.2022 I was told that maybe tomorrow (29.12.2022) I can go home. Before that they asked me whether I am living alone or not, do I have any close relatives here, and I clearly said that I am living alone and that I will not have anybody to help me. I did not feel perfect, and I definitely did not feel independent in regard to taking care of myself. I could not take heavy stuff, so even lifting 3-4+ kg things was with the pain. I even couldn’t tie my laces. I clearly did not know how I am going to cook myself if I cannot walk more than 300-400m. How was I supposed to take all my stuff from the grocery shop if I was prohibited to lift anything at all? Anyway, I asked to prolong my stay one more day, and then on 30.12.2022 the emergency car brought me home(they don’t allow you to take a taxi without your close relative or friend with you that I really respect and am thankful for). I managed to find somebody to live with me and I am thankful to that person as well, but without this person, I don’t know what to do, to be honest.`
 
 On the 3rd of January 2023, spending 3 days at home - I got really worse and went through complication surgery. We will talk about it in the next article.
 
 
+<br>
+
 ## **Hospital room & Attitude & Language barrier**
 
+
+<br>
 
 ### **Hospital and utilities**
 
@@ -384,26 +388,32 @@ On top of that I should admit - the food is REALLY good, I enjoyed it.
 Among utilities you have wifi, I did not use it much because I have a good mobile data provider, but it was enough for YouTube. There is a TV with remote control. You should agree with your mates about what to watch, I used only a phone.
 
 
+<br>
+
 ### **Doctors’ and nurses’ attitude**
 
 Sometimes nurses and doctors are a little bit rude, or nervous. To be honest, I understand them, patients sometimes are irritating, you have a lot of paperwork and workload in general, you have tight deadlines, and don’t have proper sleep.
 
-Sometimes there is some hate for Ukrainians from Czech people because there are a lot of refugees, and not all of them behave well. It is often because foreigners don’t know the Czech Language. 
+Sometimes there is some hate for Ukrainians from Czech people because there are a lot of refugees, and not all of them behave well. It is often because foreigners don’t know the Czech Language.
 
-I am from Ukraine, and even though I got to Prague before russia invaded Ukraine, and I already had offer from Microsoft, I still sometimes felt this biased hate. 
+I am from Ukraine, and even though I got to Prague before russia invaded Ukraine, and I already had offer from Microsoft, I still sometimes felt this biased hate.
 
 I was really happy with the attitude of all doctors and nurses. The doctor (surgeon) is really kind person, she explained things to me, asked how are you, answering my sometimes not the most clever questions.
 
+
+<br>
 
 ### **Language barrier**
 
 I did not know the Czech language by the time I arrived at the hospital. For sure not all Czech people know English, so I was afraid I will not be able to easily communicate with doctors and nurses.
 
 With the first nurse before surgery the lady from reception that knows Ukrainian helped.
-The doctor knows English better than me - so I was happy. Some of the nurses know Ukrainian so also it is not a problem for me. Some of the nurses know English, I would say it is about 50%. 
+The doctor knows English better than me - so I was happy. Some of the nurses know Ukrainian so also it is not a problem for me. Some of the nurses know English, I would say it is about 50%.
 
 But I really appreciate them all for trying to explain to me or to answer me. Sometimes they went with Google translator. Sometimes they with hands showed me what to do and I understood them.
 
+
+<br>
 
 ## **Conclusion**
 
