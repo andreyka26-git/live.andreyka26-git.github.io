@@ -308,7 +308,7 @@ Since it is not my first surgery I knew some surgeons from Ukraine that did surg
 
 <br>
 
-##### **Suspicion 1**
+##### **Point 1**
 
 
 
@@ -340,7 +340,7 @@ Not blurred image [here](/assets/2023-04-24-surgery-healthcare-experience-prague
 
 <br>
 
-##### **Suspicion 2**
+##### **Point 2**
 
 `I wanted to go shower for sure, we had one in hospital room (I will overview hospital utilities later). For sure I asked whether I can do that, what can I wash, and what I must not. The answer was: you can wash the wound but without the soap. My surgeons from Ukraine said that it is better not to pour any water on wound at all for now. This one I don’t know, I’m not a doctor - so you could check on your own, I am just sharing my thoughts by that time.`
 
@@ -359,7 +359,7 @@ During my time at home, I did not do any physical exercises, followed the diet, 
 
 <br>
 
-##### **Suspicion 3**
+##### **Point 3**
 
 `My surgery happened on 26.12.2022 at about 16:00. On 28.12.2022 I was told that maybe tomorrow (29.12.2022) I can go home. Before that they asked me whether I am living alone or not, do I have any close relatives here, and I clearly said that I am living alone and that I will not have anybody to help me. I did not feel perfect, and I definitely did not feel independent in regard to taking care of myself. I could not take heavy stuff, so even lifting 3-4+ kg things was with the pain. I even couldn’t tie my laces. I clearly did not know how I am going to cook myself if I cannot walk more than 300-400m. How was I supposed to take all my stuff from the grocery shop if I was prohibited to lift anything at all? Anyway, I asked to prolong my stay one more day, and then on 30.12.2022 the emergency car brought me home(they don’t allow you to take a taxi without your close relative or friend with you that I really respect and am thankful for). I managed to find somebody to live with me and I am thankful to that person as well, but without this person, I don’t know what to do, to be honest.`
 
