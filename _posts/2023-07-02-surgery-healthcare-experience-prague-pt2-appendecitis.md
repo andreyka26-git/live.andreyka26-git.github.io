@@ -5,8 +5,8 @@ date: 2023-07-02 11:02:35 -0000
 category: ["Healthcare"]
 tags: [healthcare]
 description: "In this article we will consider the healthcare system that I have tested in Prague (Czech Republic) having appendecitis here with complication surgery. I will review quality, prices, healthcare services, recovery, symptoms, etc"
-thumbnail: /assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/logo.png
-thumbnailwide: /assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/logo-wide.png
+thumbnail: /assets/2023-07-02-surgery-healthcare-experience-prague-pt2-appendecitis/logo.png
+thumbnailwide: /assets/2023-07-02-surgery-healthcare-experience-prague-pt2-appendecitis/logo-wide.png
 ---
 <br>
 
@@ -53,7 +53,7 @@ We will discuss complications that happened after the first surgery, how the sec
 
 ## **Second surgery - complication surgery**
 
-A short summary of my [previous article](https://live.andreyka26.com/surgery-healthcare-experience-prague-pt1-appendecitis) about appendicitis:
+A short summary of my previous article about appendicitis:
 
 I got appendectomy surgery on 26.12.2022. I was recovering, everything was fine, and I followed the recommendations.
 
@@ -119,7 +119,7 @@ From the doctor’s report:
 [![alt_text](/assets/2023-07-02-surgery-healthcare-experience-prague-pt2-appendecitis/image2.png "image_tooltip")](/assets/2023-07-02-surgery-healthcare-experience-prague-pt2-appendecitis/image2.png "image_tooltip"){:target="_blank"}
 
 
-This document says that I have 200 ml of some free fluid for no reason. And I need one more surgery to take this fluid out. Diagnose sounds like `Infekce po vykonu nezarazena jinde`. I got this diagnosis in the classification database, it translates as [Infection following a procedure](https://www.aapc.com/codes/icd-10-codes/T81.4)
+This document says that I have 200 ml of some free fluid for no reason. And I need one more surgery to take this fluid out. Diagnose sounds like `Infekce po vykonu nezarazena jinde`. I got this diagnosis in the classification database, it translates as [Infection following a procedure](https://www.icd10data.com/ICD10CM/Codes/S00-T88/T80-T88/T81-/T81.4)
 
 On top of that, I would like to point your attention that chronologically this document states that I had `flegmonogangrenozni appendicitis` which we discussed in the previous article.
 
@@ -220,7 +220,7 @@ After removing I looked like this
 
 <br>
 
-#### **Point 4**
+#### **Point 5**
 
 I asked about the shower because the appendectomy wound was opened and cleaned every day by the doctor, I assumed it is not allowed to wash it. But I was told that I can wash it with water without soup. This was suspicious, other surgeons from Ukraine told me that I must not wash it at all. So I decided to play safely and didn’t wash it at all until it is fully healed.
 
@@ -262,12 +262,7 @@ If somebody is interested in the financial part of this situation - everything w
 
 If you have any questions - let me know on my Instagram or Telegram.
 
-// TODO insert the image
 
-// TODO insert the image
+`IMPORTANT` - before following the link - make sure you are 18+ and your are mentally strong, there is going to be wound photos.
 
-// TODO insert the image
-
-// TODO insert the image
-
-This is how my wound looked like during my recovery with dates included.
+The chronology of healing [here](/assets/2023-07-02-surgery-healthcare-experience-prague-pt2-appendecitis/Chronology.html){:target="_blank"}.
