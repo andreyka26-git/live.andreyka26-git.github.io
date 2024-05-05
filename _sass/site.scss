@@ -128,9 +128,9 @@ ol, ul {
 body {
     background-color: var(--main-background-color) !important;
     color: var(--main-text-color) !important;
-    font-family: 'Quicksand', sans-serif !important;
+    // font-family: 'Quicksand', sans-serif !important;
     font-feature-settings: "kern"on;
-    font-size: 1.4rem;
+    font-size: 1.1rem !important;
     font-variant-numeric: oldstyle-nums;
     hanging-punctuation: first last;
     height: 100%;
@@ -140,6 +140,10 @@ body {
     padding-top:33px;
     overflow-x:hidden;
     overflow-y:scroll;
+}
+
+.highlighter-rouge {
+    font-size: 1rem !important;
 }
 
 .reactions-view {
@@ -215,10 +219,12 @@ header {
 }
 
 .card-body {
+
     img {
         width: 100%
     }
 }
+
 
 .copyright {
     padding-bottom: 40px;
@@ -256,6 +262,11 @@ header {
 
 #navbar-hamburger, #navbar-search{
     color: var(--bold-color) !important;
+}
+
+.tech-blog {
+    font-size: 0.75rem;
+    margin-left: 1rem;
 }
 
 .navbar-dark .navbar-brand {
@@ -587,7 +598,6 @@ header {
     background: transparent;
 }
 
-
 #profile-card {
     text-align: center;
     #author-img{
@@ -793,6 +803,11 @@ footer {
         padding-right: 0px;
     }
 
+    .tech-blog {
+        font-size: 0.75rem;
+        margin-left: 0rem !important;
+    }
+    
     .navbar-brand {
         display: inline-block;
         padding-top: .3125rem;
@@ -871,6 +886,11 @@ footer {
           padding-left:  0px;
           padding-right: 0px;
       }
+
+      .tech-blog {
+        font-size: 0.75rem;
+        margin-left: 0rem !important;
+    }
 
       .navbar-brand {
           display: inline-block;
