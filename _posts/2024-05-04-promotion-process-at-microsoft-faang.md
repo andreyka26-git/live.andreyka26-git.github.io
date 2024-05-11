@@ -22,6 +22,8 @@ Just to mention: when I’m speaking about big tech companies I will refer to [F
 
 Disclaimer: since anything we are discussing might be the subject of NDA - everything I’m speaking about IS NOT about my current working company or any other companies I was working for. It comes from my imagination and dreams (no).
 
+I also recorded [video about it](https://www.youtube.com/watch?v=bvC7bp7EKnM&ab_channel=andreyka26_se) on my YouTube channel, so you can listen to it, instead of reading this article:
+
 
 ## FAANG companies interview
 
