@@ -164,9 +164,9 @@ The day X. I have my own health diary, so that’s what I have for this day:
 
 [![alt_text](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image5.png "image_tooltip")](/assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/image5.png "image_tooltip"){:target="_blank"}
 
-Now I'm using more advanced symptom tracker [Symptom Diary](https://blog.symptom-diary.com), that can track all the pains, symptoms, medications, food, and sport activities. It is much better health diary than just plain notes.
+Now I'm using more advanced symptom tracker [Symptom Diary](https://symptom-diary.com), that can track all the pains, symptoms, medications, food, and sport activities. It is much better health diary than just plain notes.
 
-As you can see I have used just Google Docs, but now I created my own application called [Symptom Diary](https://blog.symptom-diary.com), where you can track your pains, symptoms, medications and other health related entries with analytics, search and export.
+As you can see I have used just Google Docs, but now I created my own application called [Symptom Diary](https://symptom-diary.com), where you can track your pains, symptoms, medications and other health related entries with analytics, search and export.
 
 Since I have chronic problems with the stomach - sometimes I might have some random pain in my stomach, I consider this as “Fine, again random stuff because of nothing, let’s suffer a little and then it will get better”.
 

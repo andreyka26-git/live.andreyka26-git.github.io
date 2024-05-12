@@ -71,7 +71,7 @@ In the evening, from 18:00 I started feeling an increased burning pain in the be
 
 This is my symptom diary for this day.
 
-These days I use much better symptom tracker [Symptom Diary](https://blog.symptom-diary.com), that can track all the pains, symptoms, medications, food, and sport activities. It is much better health diary than just plain notes.
+These days I use much better symptom tracker [Symptom Diary](https://symptom-diary.com), that can track all the pains, symptoms, medications, food, and sport activities. It is much better health diary than just plain notes.
 
 
 [![alt_text](/assets/2023-07-02-surgery-healthcare-experience-prague-pt2-appendecitis/image5.png "image_tooltip")](/assets/2023-07-02-surgery-healthcare-experience-prague-pt2-appendecitis/image5.png "image_tooltip"){:target="_blank"}
