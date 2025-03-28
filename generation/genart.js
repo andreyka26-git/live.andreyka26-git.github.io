@@ -4,7 +4,7 @@ const path = require("path");
 // Define variables
 const date =
   new Date().toISOString().replace(/T/, " ").replace(/\..+/, "") + " -0000";
-const title = "How I became Senior at 20 - Not a bit deal";
+const title = "How I became Senior at 20";
 const category = "Software Engineering Life";
 const tags = "[softwareengineeringlife]";
 const description =
