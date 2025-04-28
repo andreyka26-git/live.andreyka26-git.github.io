@@ -95,7 +95,7 @@ I completely agree; sometimes, in some systems and under certain loads, frontend
 
 ## **Real Backend Challenges that FE does not have**
 
-Real backend challenges start when your service has SLA, so you have to **guarantee **something.
+Real backend challenges start when your service has SLA, so you have to **guarantee** something.
 
 Usually, the **guaranteed** parts are:
 
@@ -104,7 +104,7 @@ Usually, the **guaranteed** parts are:
 * **Availability** - how much time your service MUST be running.
 * **Consistency** - how consistent data should be; e.g. when I send $500 to my friend, exactly $500 should be deducted from my account, and he should receive $500 or when I change my profile avatar, colleagues must see a new picture in a matter of hours.
 * **Latency** - how much **response wait time** is allowed.
-* **Durability **- once user added data, it must not disappear
+* **Durability**- once user added data, it must not disappear
 
 
 
