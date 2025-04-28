@@ -16,11 +16,11 @@ thumbnailwide: /assets/2024-05-04-promotion-process-at-microsoft-faang/logo-wide
 
 ##  What we are going to talk about
 
-I have been working for Microsoft for 2 years already, previously I worked for different outsource companies (in total about 4 years). Today I’m going to talk about the promotion process and why PROMO IS BROKEN in such big tech companies like Microsoft and all FAANG (Facebook, Amazon, Apple, Netflix and Google).
+I have been working for Microsoft for 2 years already, previously I worked for different outsource companies (in total about 4 years). Today I'm going to talk about the promotion process and why PROMO IS BROKEN in such big tech companies like Microsoft and all FAANG (Facebook, Amazon, Apple, Netflix and Google).
 
-Just to mention: when I’m speaking about big tech companies I will refer to [FAANG](https://en.wikipedia.org/wiki/Big_Tech).
+Just to mention: when I'm speaking about big tech companies I will refer to [FAANG](https://en.wikipedia.org/wiki/Big_Tech).
 
-Disclaimer: since anything we are discussing might be the subject of NDA - everything I’m speaking about IS NOT about my current working company or any other companies I was working for. It comes from my imagination and dreams (no).
+Disclaimer: since anything we are discussing might be the subject of NDA - everything I'm speaking about IS NOT about my current working company or any other companies I was working for. It comes from my imagination and dreams (no).
 
 I also recorded [video about it](https://www.youtube.com/watch?v=bvC7bp7EKnM&ab_channel=andreyka26_se) on my YouTube channel, so you can listen to it, instead of reading this article:
 
@@ -29,18 +29,18 @@ I also recorded [video about it](https://www.youtube.com/watch?v=bvC7bp7EKnM&ab_
 
 The interview process in FAANG is pretty hard to pass, and hard to prepare compared to outsource companies. I had interviews at Microsoft and at Amazon, and they are pretty similar. 
 
-The main part of the interview is called the “interview loop”. This is a bunch of interviews (4-5) that are coming one by one during the day. Before it you most probably will solve some easy “leetcode” questions online, and maybe 1 pre screening interview with the hiring manager.
+The main part of the interview is called the "interview loop". This is a bunch of interviews (4-5) that are coming one by one during the day. Before it you most probably will solve some easy "leetcode" questions online, and maybe 1 pre screening interview with the hiring manager.
 
-The hardest part is this interview loop, because it consists of the “leetcode” question, system design, OOP and behavioral questions. For me it took about 2-3 months of preparation.
+The hardest part is this interview loop, because it consists of the "leetcode" question, system design, OOP and behavioral questions. For me it took about 2-3 months of preparation.
 
 
 ## Outsource companies interview
 
 In outsource companies the interview process is quite different.  
 
-Usually it is just 1, maximum 2 interviews. Mostly it consists of “knowledge checking” questions. Basically, during 1-2 hours the interviewer asks you questions from different areas: databases & storages, networking, TCP/IP stack, testing, SDLC, algorithms & DS (theory only), design principles. Since I was .NET software engineer the biggest chunk of questions was addressed to .NET / C# internals: async/await, multithreading, GC, etc.
+Usually it is just 1, maximum 2 interviews. Mostly it consists of "knowledge checking" questions. Basically, during 1-2 hours the interviewer asks you questions from different areas: databases & storages, networking, TCP/IP stack, testing, SDLC, algorithms & DS (theory only), design principles. Since I was .NET software engineer the biggest chunk of questions was addressed to .NET / C# internals: async/await, multithreading, GC, etc.
 
-I almost never had algorithms coding part as in FAANG companies, or just at least coding part as well as system design, even for Senior positions. I personally think there is pretty big inflation of titles in outstuf/outsource companies, but it is not a topic for today.
+I almost never had algorithms coding part as in FAANG companies, or just at least coding part as well as system design, even for Senior positions. I personally think there is pretty big inflation of titles in outsource companies, but it is not a topic for today.
 
 
 ## Outsource companies promotions
@@ -79,21 +79,21 @@ There are few problems with this approach:
 
 
 * First thing, it has nothing to do with your actual technical and nontechnical growth. It is just the amount of work done. You might be on the very same level and get promoted. This way you remember less technical stuff that is useful for your job and interviews, so you are putting yourself in a weaker position having bigger dependency on your company. Besides that for me it is unnatural to be promoted without skill growth.
-* Usually you don’t pick up the feature, but it is assigned to you according to priority. If you have a bad feature - there is nothing you can do. You might try to escalate it to your skip manager, but it might be a bad thing to do, since your direct manager is the one who submits your promotion.
+* Usually you don't pick up the feature, but it is assigned to you according to priority. If you have a bad feature - there is nothing you can do. You might try to escalate it to your skip manager, but it might be a bad thing to do, since your direct manager is the one who submits your promotion.
 * The promotion cycles are set according to budget, you cannot get promotion whenever you deserve it. If you lose a cycle - you have to wait another one, which is at least 3 months more.
 * On the higher levels you are expected to take more ownership and contribute to the success of others more as well. It means that you will have even less time to deliver features and make an impact, because whenever somebody touches part of the project that you know, or whenever something happened related to this part - you are supposed to jump in and help people to resolve problems.
 * There is an unspoken rule, at least 1 year should pass before you get your next promotion, no matter what you do.
 
 In such companies there is a good culture, at least from what I have seen, work life balance, learning time, etc so it is still possible to just do your job from 9 till 6, but then it is very hard to get any kind of promotion.
 
-On top of that, most of that time compensation increase will not be that big. It is kind of a rule that you will have more benefits if you put your effort into interview preparation instead of promotion. I respect how companies did it: when you try to get a promotion - you will be so busy with it, that you just don’t have time to have interviews and offers.
+On top of that, most of that time compensation increase will not be that big. It is kind of a rule that you will have more benefits if you put your effort into interview preparation instead of promotion. I respect how companies did it: when you try to get a promotion - you will be so busy with it, that you just don't have time to have interviews and offers.
 
 One of the best strategies in this case is: 3-4 months before the promo - you are doing a lot of impact, closing features, ownership, sometimes overtime, other times - just chill and learn, cause any way your impact will be forgotten.
 
 
 ## Conclusion
 
-This is an experience that I have seen and heard so far. Please share how it was for you. \
+This is an experience that I have seen and heard so far. Please share how it was for you.
 
 
 My contacts: [LinkedIn](https://www.linkedin.com/in/andrii-bui-a55b39166/), [Instagram](https://www.instagram.com/andreyka26_se/), [Telegram](https://t.me/programming_space).

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Surgery & health care experience in Prague pt1: appendicitis"
-date: 2023-03-24 11:02:35 -0000
+date: 2023-04-24 11:02:35 -0000
 category: ["Healthcare"]
 tags: [healthcare]
-description: "In this article we will consider the healthcare system that I have tested in Prague (Czech Republic) having appendecitis here with complication surgery. I will review quality, prices, healthcare services, recovery, symptoms, etc"
+description: "In this article I share my experience with the healthcare system in Prague (Czech Republic) after having appendicitis surgery. I review quality, prices, healthcare services, recovery, symptoms, etc."
 thumbnail: /assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/logo.png
 thumbnailwide: /assets/2023-04-24-surgery-healthcare-experience-prague-pt1-appendecitis/logo-wide.png
 ---
@@ -77,24 +77,20 @@ I am a Software Engineer at Microsoft that was born in Ukraine and relocated to 
 Lately, in Prague, `I had appendicitis that ended with surgery, then I had another complication surgery`. Besides that, I had a couple of surgeries in Ukraine.
 
 Health care was always for me the MOST important criterion for choosing the country for relocating to, and it is so now.
-Unfortunately, usually, people rate healthcare by money (e.g. it is great - you don’t need to pay).
+Unfortunately, usually, people rate healthcare by money (e.g. it is great - you don't need to pay).
 
-I am more thorough in healthcare rating and overview because good healthcare keeps me feeling safe and happy. Usually, I prefer overview healthcare first of all by quality, waiting time, and then money (maybe this is because I am not living in USA xD).
+I am more thorough in healthcare rating and overview because good healthcare keeps me feeling safe and happy. Usually, I prefer to evaluate healthcare first by quality, then waiting time, and finally cost.
 
 This article will be useful if you are relocating to Prague, or considering relocating here - because I will provide `my experience of emergent surgery` in detail covering:
 
-
-
 * `Language barrier` - here in the Czech Republic, not everybody speaks English
-* `Quality` - what was done, why I got complications, and how it relates to international protocols. On top of that, I will provide the documentation that I got.
+* `Quality` - what was done, why I got complications, and how it relates to international protocols
 * `Costs and bills`
-* `Attitude of healthcare personnel` - in the past, I had an experience with rude doctors  that seemed to me did not want to treat people at all.
+* `Attitude of healthcare personnel`
 
-If you are afraid of what happens when you have appendicitis, all symptoms, etc - it will be useful for you as well.
+If you are worried about what happens during appendicitis, including symptoms and treatment, this will be useful as well.
 
-On top of that, I am an experienced carrier of chronicle problems with my stomach, and I have feedback about taking care of my stomach here, if you are interested - please let me know in my Telegram/Instagram (you can find it in the About section).
-
-All the documentation I will present here is in Czech Language. I will put  reference to translation in English from Google Translator, so it is not 100% accurate but those who are interested will get the idea.
+All the documentation I will present here is in Czech Language with references to English translations.
 
 <br>
 

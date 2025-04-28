@@ -4,7 +4,7 @@ title: "How I became Senior at 20"
 date: 2025-03-27 16:28:37 -0000
 category: Software Engineering Life
 tags: [softwareengineeringlife]
-description: "You have probably heard about seniors at 20, these young engineers who already are seniors. I will share my personal story about how I became senior software engineer at 20, and why it is not a bit deal at all."
+description: "You have probably heard about seniors at 20, these young engineers who already are seniors. I will share my personal story about how I became senior software engineer at 20, and why it is not a big deal at all."
 thumbnail: /assets/2025-03-28-how-i-became-senior-at-20/logo.png
 thumbnailwide: /assets/2025-03-28-how-i-became-senior-at-20/logo-wide.png
 ---
