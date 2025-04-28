@@ -4,11 +4,11 @@ const path = require("path");
 // Define variables
 const date =
   new Date().toISOString().replace(/T/, " ").replace(/\..+/, "") + " -0000";
-const title = "How I became Senior at 20";
+const title = "Backend is HARDER than Frontend";
 const category = "Software Engineering Life";
 const tags = "[softwareengineeringlife]";
 const description =
-  "You have probably heard about seniors at 20, these young engineers who already are seniors. I will share my personal story about how I became senior software engineer at 20, and why it is not a bit deal at all.";
+  "I have seen people claiming that frontend is harder than backend, as backend engineer I will disagree, it always depends, and today I will show you why backend is actually harder and what are the backend challenges.";
 const nameofarticle = `${date.slice(0, 10)}-${title
   .toLowerCase()
   .replace(/\s+/g, "-")
