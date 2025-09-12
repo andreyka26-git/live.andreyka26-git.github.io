@@ -1,15 +1,37 @@
+---
+layout: post
+title: "Why Software Engineers Shouldn’t Start Startups"
+date: 2025-09-11 16:11:03 -0000
+category: Software Engineering Life
+tags: [softwareengineeringlife]
+description: "Thinking of starting a startup as a software engineer? Here's why it may not be the dream you expect—and why staying in engineering could be better"
+thumbnail: /assets/2025-09-11-why-software-engineers-shouldnt-start-startups/logo.png
+thumbnailwide: /assets/2025-09-11-why-software-engineers-shouldnt-start-startups/logo-wide.png
+---
+
+* TOC
+{:toc}
 
 
-## Introduction
 
-I've been doing leetcode daily for a very long time already, and one person once asked me, why don’t you just run your startup, create some app, or maybe run your outsource company? \
- \
+
+
+<br>
+
+## **Introduction**
+
+I've been doing leetcode daily for a very long time already, and one person once asked me, why don’t you just run your startup, create some app, or maybe run your outsource company? 
+ 
 I already tried to run my own projects/startups (unsuccessfully). I also tried to join the startup that was run by my friend (successfully) as CTO. After some time, I still came back to big tech life, delivering features, learning distributed systems and solving Leetcode daily.
 
 Why is that, and why you SHOULD NOT go the startup way as well - this is exactly what we discuss today.
 
 
-## What do you enjoy?
+
+
+<br>
+
+## **What do you enjoy?**
 
 All of us have different reasons for deciding to become a Software Engineer. By software engineer I mean everything: backend, frontend, devops, SDET, whatever you are.
 
@@ -28,7 +50,11 @@ To summarize I enjoy:
 Of course I like being paid for this, we are all doing it for money in the end, but personally, I would still build projects even without getting paid for it.
 
 
-## Can you enjoy being an employee
+
+
+<br>
+
+## **Can you enjoy being an employee**
 
 Currently, working as a backend software engineer for a company completely fulfills all my enjoyment points. 
 
@@ -45,7 +71,11 @@ Yes, there are drawbacks: you are dependent, there is always somebody that will 
 I agree with all of them to some degree, but along with drawbacks, it brings a bunch of securities: stable salary, paid vacation, absence of mental pressure and responsibility (only to some extent). But what is the most important - **I am still doing things I like**.
 
 
-## Why is running a startup not enjoyable?
+
+
+<br>
+
+## **Why is running a startup not enjoyable?**
 
 What is the problem with running a startup? It brings you independence, it scales, you are working for YOURSELF, they told…
 
@@ -85,8 +115,13 @@ If we go even deeper - (co)founder role - it is even worse. You are spending 70%
 The biggest delusion here is to perceive startup as developing your own project, building features you want to build, building them the way you want to build with tools and technologies you want to use. This is a 100% mistake, in a startup - the market and customers are dictating what, how fast and in which way you will be building. By the time you get some investors - they will join your “dictating” community. Just be aware of this.
 
 
-## Conclusion
+
+
+<br>
+
+## **Conclusion**
 
 Before you decide to do your own startup - think carefully, what do you REALLY enjoy about your job? If this is communication, delivering features very quickly, managing people, fast feedback loop, instability, risk - then the startup path might be for you.
 
 However if you are the type of person who likes engineering, likes building something high quality, likes learning how everything works internally, stability - then, maybe, startup thingy is not for you, and you will ruin your mental and financial health with it.
+
