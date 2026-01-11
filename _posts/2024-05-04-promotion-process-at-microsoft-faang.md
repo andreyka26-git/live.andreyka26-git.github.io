@@ -102,4 +102,4 @@ My projects:
 
 Pet 4 Pet: [https://pet-4-pet.com](https://pet-4-pet.com)
 
-Symptom Diary: [https://symptom-diary.com](https://symptom-diary.com)
+SyncSymptom: [https://syncsymptom.com](https://syncsymptom.com)
