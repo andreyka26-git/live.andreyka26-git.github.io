@@ -4,11 +4,11 @@ const path = require("path");
 // Define variables
 const date =
   new Date().toISOString().replace(/T/, " ").replace(/\..+/, "") + " -0000";
-const title = "Backend is HARDER than Frontend";
+const title = "I left Microsoft after 4 years";
 const category = "Software Engineering Life";
 const tags = "[softwareengineeringlife]";
 const description =
-  "I have seen people claiming that frontend is harder than backend, as backend engineer I will disagree, it always depends, and today I will show you why backend is actually harder and what are the backend challenges.";
+  "I have been working for Microsoft for 4 years, starting in 2022. Starting from 2026 I left Microsoft and secured offers in Google and Snowflake, currently working for Snowflake. Today we will talk about what are the reasons to leave the Microsoft.";
 const nameofarticle = `${date.slice(0, 10)}-${title
   .toLowerCase()
   .replace(/\s+/g, "-")

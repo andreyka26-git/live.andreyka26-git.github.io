@@ -1,92 +1,162 @@
+<!-- You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see useful information and inline alerts.
+* ERRORs: 0
+* WARNINGs: 0
+* ALERTS: 1 -->
 
 
-## Introduction
+## Quick Intro
 
-I've been doing leetcode daily for a very long time already, and one person once asked me, why don’t you just run your startup, create some app, or maybe run your outsource company? \
+I have been working for Microsoft for 4 years, starting in 2022. Starting from 2026 I left Microsoft and secured offers in Google and Snowflake, currently working for Snowflake.
+
+This article outlines the reasons for leaving (no one leaves without the reason), what happened during these 4 years: getting into Dynamics365, then switching to Presence in Teams, interviewing, life in Prague, etc.
+
+
+### Disclaimer
+
+Sometimes for a bunch of reasons - I will be using the word FAANG instead of Microsoft, representing tier1 and most of the tier2 companies, as most of them share the same problems.
+
+
+## The life at Microsoft
+
+
+### First Project D365
+
+I joined in April 2022 to the project called Dynamics 365. Basically it is a CRM for businesses, something like a SalesForce. 
+
+Need to mention that I got a bit lied to by Microsoft, as initially it was a position for multiple locations (Czech Republic, Ireland, Germany and Poland) and for multiple projects - turned out to be a single offer for a single project single location.
+
+Having purely backend experience (in .NET) and switching to CRM frontend was not that great. My expectation from Microsoft was fully ruined, because I ended up mostly working on Customer’s issues, most of which are just about them setting up the system incorrectly, moving/fixing button position and tasks like that.
+
+Don’t get me wrong, it would be perfect chill work, but in my 22 I was way more ambitious and passionate about engineering. I made a decision: either I’m leaving Microsoft or switching projects within the company. I got lucky to be introduced to my Ukrainian friend, who later saved my life (see [appendicitis experience in CZ](https://live.andreyka26.com/surgery-healthcare-experience-prague-pt1-appendecitis)). 
+
+He was working in Presence Service - the yellow-green-red button in teams that tells your statue: online, in a meeting, offline, etc. This was exactly the project I was dreaming about when joining Microsoft - so I immediately contacted the manager and again got lucky - they had an open position.
+
+
+### Moving from Dynamics to Presence
+
+When you switch the projects - you might have extremely polar interview experience in FAANG. If you are joining a different org, usually you will need to have an interview loop. Sometimes, you might negotiate with the manager and have just one interview. It really depends. In my case - I got lucky again - I just had an interview with my future teammates. Mainly talking about distributed systems, sharding, networking etc.
+
+Since this is exactly what I’m good at, there was a collective decision to accept my candidacy straight away during the interview - and it was my 4th luck.
+
+
+### Second Project Presence
+
+As I already mentioned - Presence was exactly my dream project, I encountered pretty much half of the concept I was learning in so famous “Designing Data Intensive Applications” by Martin Kleppmann:
+
+
+
+* highly distributed service
+* millions of requests per second
+* consensus, consistency, replication and sharding
+
+One of the most important things - I got an AMAZING team and an AMAZING manager. We became friends as most of us relocated at the same time and colleagues were the only “people” around.  I got promoted twice during my 3 years there to 62.
+
+It seemed to be an ideal place. There was really no reason to look around, because the probability that it could be better is very low.
+
+
+## Reasons to leave
+
+Many of you might ask - why then?
+
+
+### Money
+
+What a surprise, right? As a person who got to Microsoft from Ukrainian outsource companies I was very surprised by how FAANGs are paying you.
+
+*Disclaimer: I DO NOT talk about Microsoft, but rather about general approach in all  tier1/ tier2 companies.*
+
+Total compensation = base salary + on-hire stocks + yearly stock bonus + yearly cache bonus (optional)
+
+
+#### Base salary
+
+Pretty simple you are getting some amount of money and paying local country taxes for it. Mostly Microsoft is working with you as an employee (not self employed) so taxes are pretty high.
+
+
+#### On-hire stock
+
+This is the most tasty piece of cake. How it works:
+
+
+
+* company is “buying” you stock for some static amount of money, let’s say they bought you 100 shares and paid 2k EUR according to current stock price. You don’t own stocks yet.
+* The company starts transferring you these 100 shares part by part over a 4 years period, usually. This process is called vesting. Typically they divide 100 by quarters and pay you some part each quarter. Some companies might delay first vesting by one year or so - to keep incentive for you to stay.
+
+The main profit here is that stock might grow while it is not yours still. Let’s say the original 100 shares increased in price 3 times. By the end of 4 years you will have 6k EUR instead of initial 2k.
+
+
+#### Yearly bonus
+
+Sounds like most of the people would just go, work for 4 years and leave, no?
+
+Actually, no. There is another incentive for company to keep you
+
+Typically FAANGs have yearly bonuses based on your performance. It works exactly like an on-hire stock bonus. Some people call it “stock refresher”. The company assigns another portion of stock for you for the next 4 years. The only difference is that this bonus depends on your performance and it is bounded by the range that is defined by your level.
+
  \
-I already tried to run my own projects/startups (unsuccessfully). I also tried to join the startup that was run by my friend (successfully) as CTO. After some time, I still came back to big tech life, delivering features, learning distributed systems and solving Leetcode daily.
+Let’s say, juniors have range 0-500 eur stock award, mids 0-1000, seniors 0-2000. The higher level you have - the better stock you get.
 
-Why is that, and why you SHOULD NOT go the startup way as well - this is exactly what we discuss today.
-
-
-## What do you enjoy?
-
-All of us have different reasons for deciding to become a Software Engineer. By software engineer I mean everything: backend, frontend, devops, SDET, whatever you are.
-
-When I was at school, I liked solving math problems. At the same time, I also heard that people were making money from websites (in 2015), so I wanted to create one. I tried it, and it gave me the same feeling as solving math problems.
-
-To summarize I enjoy:
+During your 4 years of on-hire stocks - you accumulate these yearly stock in the way that by the end of on-hire stocks - you kind of stay with the same amount of money.
 
 
-
-* solving problems
-* building high quality apps (code/architecture-wise)
-* the feeling of completeness when a problem gets solved by me
-* understanding how things work internally
-* growing both formally (title change) and in fact (by skills/knowledge)
-
-Of course I like being paid for this, we are all doing it for money in the end, but personally, I would still build projects even without getting paid for it.
+![alt_text](images/image1.png "image_tooltip")
 
 
-## Can you enjoy being an employee
+Note that the most “profitable” is actually your last on-hire stocks bonus. After that you lower stock compensation by two.
 
-Currently, working as a backend software engineer for a company completely fulfills all my enjoyment points. 
+Why do people in general stay longer? Because of promotion. In 4 years you will get much better stocks if you go up 2-3 levels, so the result won’t be 1k as in the picture.
+
+For me jun vs mid stocks were not that big of a difference.
+
+
+#### FAANGs reinforce leaving over giving promotion
+
+I still don’t understand why. The general rule in FAANGs is that if you are growing within the company you are getting paid less compared to people on your level that just joined.
+
+Consider an example:
 
 
 
-* **I am solving problems and challenges daily at work**. Yes, sometimes you get a boring monkey job, but with automation and AI it becomes less and less. 
-* **My work might have an impact on hundreds of millions of users**. Unfortunately this is only the case in products with huge traffic, but it is up to you to apply and work there.
-* **The team where I am is building high quality systems**, so high standards and requirements are applied everywhere, starting from architecture docs, diagrams, and ending with the code and PR review along with deployment and rollout.
-* **There is a career path for growing**, that will be over with ceiling only in about 10-15 years. Even after that, I still believe there will be new things to learn.
-* **I have an incentive to learn**. From time to time there is something I need to learn in terms of general distributed systems / computer science topics. If not - you always have an incentive to learn system design and algorithms, as layoff is still a thing in the world, and you want to feel secure about it.
+* junior that over 4 years grew up to senior
+* lately joined senior
 
-Yes, there are drawbacks: you are dependent, there is always somebody that will tell you what to work on, you cannot decide when and where to work (partially not true), you can be fired any moment (partially not true, at least in EMEA). 
+Typically it works in the way that a new hire senior will make much more than you. He would have a higher base most probably, and higher stocks.
 
-I agree with all of them to some degree, but along with drawbacks, it brings a bunch of securities: stable salary, paid vacation, absence of mental pressure and responsibility (only to some extent). But what is the most important - **I am still doing things I like**.
+From a company perspective, a junior that grows to senior has MUCH MORE value than just joining one, as he knows how everything works, familiar with the project, team, processes.
+
+But still FAANG will pay the new hire more. This works like that as the more you are promoting - the closer you to median on your level.
+
+That’s why it is VERY bad to join as a bit overqualified junior compared to underqualified mid.
+
+Besides that, the promotion process in FAANGs is quite interesting and based on your impact rather than on your real growth. I shared more details in [this article](https://live.andreyka26.com/promotion-process-at-microsoft-faang): 
 
 
-## Why is running a startup not enjoyable?
+### Documents
 
-What is the problem with running a startup? It brings you independence, it scales, you are working for YOURSELF, they told…
+Since I relocated to the Czech Republic  a few days before russia invaded Ukraine - I was not able to get a proper visa so I was staying on a protection visa for a very long time, not leading to proper status and future in the country. This was also one of the reasons to start looking for something else.
 
-As I see it, it makes you stressed and work even more: now your boss is not a manager, but a customer (God knows what is worse), you work for yourself, which means you ALWAYS work, you might get higher pay, but you might not, and it might not be stable.
 
-But these points are not the most important here, just a matter of choice of whether you are a risky person or not.
+### Location
 
-There is still one very important “drawback”, that made me quit my projects, and the startup of my friend.
+Hope you still remember that location is Prague in Czech Republic. I like Prague as a city, but I wouldn't say it is good for Software Engineers. Apart from the big Microsoft dev center there is no FAANG around. For sure it is worse for employees as employers don’t compete with each other (big fish).
 
-**When you run a startup - you DON’T do engineering**.
-
-Let me elaborate a bit.
-
-First, if you are co-founder/founder - believe me, engineering is the smallest piece of your activities. Before you started making any money your main headache would be to advertise and bring investors, which has ZERO in common with engineering.
-
-Second, during all the stages of your startup - you need to ship code and features EXTREMELY fast, because tomorrow they might not be needed anymore, or they will be implemented by a competitor who raised the next round unlike you.
-
-“First sell - then develop” strategy. What you actually are going to do, is to use a bunch of LLM agents just to make something work. It automatically excludes spending time to make it high quality, as there is time pressure. 
-
-Furthermore - there is no learning. You are not going to deeply understand the tool you are using, cloud you are deploying to, storage you are going to write to. The tools will be switching faster than you're going to integrate them.
-
-After living like that for half a year I realized that my daily routine comprises:
+It is very funny that most of the employees in MS are ex/future Pure Storage, ex/future Barclays or ex/future Oracle engineers. Common scenario:
 
 
 
-* constantly being behind, and not able to deliver everything required
-* whatever you are doing is a low quality “just make it work” piece of software, that tomorrow might be thrown away
-* constantly starting new and throwing unfinished features, as market and direction might switch every single day
-* constantly switching technology, because the new tool might be cheaper, or better in some aspect
+* you have hard time of getting promotion, on-hire stocks are done, you feel poor
+* you go to Pure Storage for one year
+* after one year you return back to Microsoft with new on-hire stock package and potentially higher level
+* profit.
 
-We should also keep in mind the GPT and Agentic development. Since most startups have a small code base - mostly you will be doing vibe coding, which on its own is not the most enjoyable way of building apps (IMO).
+ \
+Smaller companies require B2 Czech Language, which is not a big deal for me as for slavic men, but still will require around 1 year of effort.
 
-In half a year due to the reasons above - I started burning out.
-
-If we go even deeper - (co)founder role - it is even worse. You are spending 70% of your time thinking about marketing, finding new people, also firing some of your people, talking to investors, going with them to parties, building connections, etc. All of the above has ZERO relation to engineering. On the contrary, it brings 100500 times more stress.
-
-The biggest delusion here is to perceive startup as developing your own project, building features you want to build, building them the way you want to build with tools and technologies you want to use. This is a 100% mistake, in a startup - the market and customers are dictating what, how fast and in which way you will be building. By the time you get some investors - they will join your “dictating” community. Just be aware of this.
+Given the situation in the IT market, worth to say - the situation with investments, startups isn’t better, from the experience of my close friend (also ex-Microsoft) who has been running a startup for almost 3 years.
 
 
-## Conclusion
+## Interviews / leaving Microsoft
 
-Before you decide to do your own startup - think carefully, what do you REALLY enjoy about your job? If this is communication, delivering features very quickly, managing people, fast feedback loop, instability, risk - then the startup path might be for you.
+Based on the reasons above - I decided to move out of the Czech Republic, I wanted another tier1/tier2 company, not the Czech Republic, Europe. It deserves a separate article, but long story short: I started prepping in Feb 2025, and in mid of Summer 2025 I got offers from Snowflake and from Google. In the end decided to proceed with Snowflake.
 
-However if you are the type of person who likes engineering, likes building something high quality, likes learning how everything works internally, stability - then, maybe, startup thingy is not for you, and you will ruin your mental and financial health with it.
+To be continued…
