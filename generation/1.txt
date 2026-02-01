@@ -1,162 +1,243 @@
 <!-- You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see useful information and inline alerts.
 * ERRORs: 0
 * WARNINGs: 0
-* ALERTS: 1 -->
+* ALERTS: 12 -->
 
 
-## Quick Intro
+# **What this article is about**
 
-I have been working for Microsoft for 4 years, starting in 2022. Starting from 2026 I left Microsoft and secured offers in Google and Snowflake, currently working for Snowflake.
+This is not a success story, because I didn’t pass the Amazon interview.
 
-This article outlines the reasons for leaving (no one leaves without the reason), what happened during these 4 years: getting into Dynamics365, then switching to Presence in Teams, interviewing, life in Prague, etc.
+This is a story about my Amazon interview experience and why I didn’t like it compared to other FAANG companies. Besides that, I will answer questions like: **what exactly they asked, what were the coding tasks, what was system design question**.
 
-
-### Disclaimer
-
-Sometimes for a bunch of reasons - I will be using the word FAANG instead of Microsoft, representing tier1 and most of the tier2 companies, as most of them share the same problems.
+In general, this article is about my experience: what interviews were, what was hard, what was not, how I prepared, and how much luck matters.
 
 
-## The life at Microsoft
+# **Start - Amazon offer**
 
-
-### First Project D365
-
-I joined in April 2022 to the project called Dynamics 365. Basically it is a CRM for businesses, something like a SalesForce. 
-
-Need to mention that I got a bit lied to by Microsoft, as initially it was a position for multiple locations (Czech Republic, Ireland, Germany and Poland) and for multiple projects - turned out to be a single offer for a single project single location.
-
-Having purely backend experience (in .NET) and switching to CRM frontend was not that great. My expectation from Microsoft was fully ruined, because I ended up mostly working on Customer’s issues, most of which are just about them setting up the system incorrectly, moving/fixing button position and tasks like that.
-
-Don’t get me wrong, it would be perfect chill work, but in my 22 I was way more ambitious and passionate about engineering. I made a decision: either I’m leaving Microsoft or switching projects within the company. I got lucky to be introduced to my Ukrainian friend, who later saved my life (see [appendicitis experience in CZ](https://live.andreyka26.com/surgery-healthcare-experience-prague-pt1-appendecitis)). 
-
-He was working in Presence Service - the yellow-green-red button in teams that tells your statue: online, in a meeting, offline, etc. This was exactly the project I was dreaming about when joining Microsoft - so I immediately contacted the manager and again got lucky - they had an open position.
-
-
-### Moving from Dynamics to Presence
-
-When you switch the projects - you might have extremely polar interview experience in FAANG. If you are joining a different org, usually you will need to have an interview loop. Sometimes, you might negotiate with the manager and have just one interview. It really depends. In my case - I got lucky again - I just had an interview with my future teammates. Mainly talking about distributed systems, sharding, networking etc.
-
-Since this is exactly what I’m good at, there was a collective decision to accept my candidacy straight away during the interview - and it was my 4th luck.
-
-
-### Second Project Presence
-
-As I already mentioned - Presence was exactly my dream project, I encountered pretty much half of the concept I was learning in so famous “Designing Data Intensive Applications” by Martin Kleppmann:
-
-
-
-* highly distributed service
-* millions of requests per second
-* consensus, consistency, replication and sharding
-
-One of the most important things - I got an AMAZING team and an AMAZING manager. We became friends as most of us relocated at the same time and colleagues were the only “people” around.  I got promoted twice during my 3 years there to 62.
-
-It seemed to be an ideal place. There was really no reason to look around, because the probability that it could be better is very low.
-
-
-## Reasons to leave
-
-Many of you might ask - why then?
-
-
-### Money
-
-What a surprise, right? As a person who got to Microsoft from Ukrainian outsource companies I was very surprised by how FAANGs are paying you.
-
-*Disclaimer: I DO NOT talk about Microsoft, but rather about general approach in all  tier1/ tier2 companies.*
-
-Total compensation = base salary + on-hire stocks + yearly stock bonus + yearly cache bonus (optional)
-
-
-#### Base salary
-
-Pretty simple you are getting some amount of money and paying local country taxes for it. Mostly Microsoft is working with you as an employee (not self employed) so taxes are pretty high.
-
-
-#### On-hire stock
-
-This is the most tasty piece of cake. How it works:
-
-
-
-* company is “buying” you stock for some static amount of money, let’s say they bought you 100 shares and paid 2k EUR according to current stock price. You don’t own stocks yet.
-* The company starts transferring you these 100 shares part by part over a 4 years period, usually. This process is called vesting. Typically they divide 100 by quarters and pay you some part each quarter. Some companies might delay first vesting by one year or so - to keep incentive for you to stay.
-
-The main profit here is that stock might grow while it is not yours still. Let’s say the original 100 shares increased in price 3 times. By the end of 4 years you will have 6k EUR instead of initial 2k.
-
-
-#### Yearly bonus
-
-Sounds like most of the people would just go, work for 4 years and leave, no?
-
-Actually, no. There is another incentive for company to keep you
-
-Typically FAANGs have yearly bonuses based on your performance. It works exactly like an on-hire stock bonus. Some people call it “stock refresher”. The company assigns another portion of stock for you for the next 4 years. The only difference is that this bonus depends on your performance and it is bounded by the range that is defined by your level.
-
- \
-Let’s say, juniors have range 0-500 eur stock award, mids 0-1000, seniors 0-2000. The higher level you have - the better stock you get.
-
-During your 4 years of on-hire stocks - you accumulate these yearly stock in the way that by the end of on-hire stocks - you kind of stay with the same amount of money.
+One day, on September 6, I received this message on LinkedIn.
 
 
 ![alt_text](images/image1.png "image_tooltip")
 
 
-Note that the most “profitable” is actually your last on-hire stocks bonus. After that you lower stock compensation by two.
-
-Why do people in general stay longer? Because of promotion. In 4 years you will get much better stocks if you go up 2-3 levels, so the result won’t be 1k as in the picture.
-
-For me jun vs mid stocks were not that big of a difference.
-
-
-#### FAANGs reinforce leaving over giving promotion
-
-I still don’t understand why. The general rule in FAANGs is that if you are growing within the company you are getting paid less compared to people on your level that just joined.
-
-Consider an example:
+I agreed to an interview. At that time, Amazon interview process had three stages:
 
 
 
-* junior that over 4 years grew up to senior
-* lately joined senior
-
-Typically it works in the way that a new hire senior will make much more than you. He would have a higher base most probably, and higher stocks.
-
-From a company perspective, a junior that grows to senior has MUCH MORE value than just joining one, as he knows how everything works, familiar with the project, team, processes.
-
-But still FAANG will pay the new hire more. This works like that as the more you are promoting - the closer you to median on your level.
-
-That’s why it is VERY bad to join as a bit overqualified junior compared to underqualified mid.
-
-Besides that, the promotion process in FAANGs is quite interesting and based on your impact rather than on your real growth. I shared more details in [this article](https://live.andreyka26.com/promotion-process-at-microsoft-faang): 
+1. Online coding tasks without interviewer
+2. 1-hour interview with one interviewer
+3. Final round with 5 interviews, 1 hour each
 
 
-### Documents
-
-Since I relocated to the Czech Republic  a few days before russia invaded Ukraine - I was not able to get a proper visa so I was staying on a protection visa for a very long time, not leading to proper status and future in the country. This was also one of the reasons to start looking for something else.
-
-
-### Location
-
-Hope you still remember that location is Prague in Czech Republic. I like Prague as a city, but I wouldn't say it is good for Software Engineers. Apart from the big Microsoft dev center there is no FAANG around. For sure it is worse for employees as employers don’t compete with each other (big fish).
-
-It is very funny that most of the employees in MS are ex/future Pure Storage, ex/future Barclays or ex/future Oracle engineers. Common scenario:
+![alt_text](images/image2.png "image_tooltip")
 
 
 
-* you have hard time of getting promotion, on-hire stocks are done, you feel poor
-* you go to Pure Storage for one year
-* after one year you return back to Microsoft with new on-hire stock package and potentially higher level
-* profit.
+# **Interviewing at Amazon**
+
+From the moment I understood that I will interview at Amazon, I started grinding LeetCode, because it is my weakest part in interviews (at least I thought so). It was not going great, but slowly improving.
+
+All interviews were online because of the COVID.
+
+Now about the first stage.
+
+
+# **First stage (done)**
+
+At HackerRank I got 2 tasks, I solved only one. Important note: for each task I had to **explain the solution**.
+
+Sorry for bad screenshots, I was afraid Amazon could detect screenshots 😅 Next ones are better.
+
+
+### First problem
+
+
+![alt_text](images/image3.png "image_tooltip")
+
+
+
+### Second problem
+
+I didn’t solve it, brute force timed out, I needed dynamic programming.
+
+
+![alt_text](images/image4.png "image_tooltip")
+
+
+
+# **Second stage (first try)**
+
+I thought if I didn’t solve all the tasks - I'd be rejected. But then I got this email.
+
+
+![alt_text](images/image5.png "image_tooltip")
+
+
+I was surprised but happy.
+
+After some time, they scheduled a second stage: 1-hour interview. I googled and understood Amazon loves **Leadership Principles** questions. So I learned all the principles, prepared examples from my small experience (3 years), and continued grinding LeetCode.
+
+Interview day came (early October). We started talking, the interviewer explained the interview, and I realized I prepared for **completely wrong things**.
+
+The interview was about **behavioral questions, Linux, and networking**. \
+I've been a Windows user since I was 4 years old. My Linux experience was minimal, only some on-prem stuff for pet projects. Networking knowledge - only theoretical from books.
+
+I didn’t record interview, but wrote down some questions:
+
+
+
+* How to delete a file in Linux?
+* You deleted a file but disk space is not freed, what to do?
+* You see there is no internet on the machine, what to do?
+* How to find the biggest file in Linux?
+* How to pipe output from one command to another?
+* The disk is full on the server, how to troubleshoot?
+* In one region latency increased, others are fine, how to fix and troubleshoot?
+
+Behavioral question I remember: \
+**Tell me about a situation when you had an uncomfortable task and how you overcame it.**
+
+After a few days, I got a rejection email.
+
+
+![alt_text](images/image6.png "image_tooltip")
+
+
+But then I got another email.
+
+
+![alt_text](images/image7.png "image_tooltip")
+
+
+Of course I agreed. My top career ambition is to be in FAANG.
+
+
+# **Second stage (second try, done)**
+
+This time interview was mostly behavioral questions like: \
+“Tell me about a situation when you had a conflict with a colleague and how you resolved it and what impact it had on the project.”
+
+I exaggerate, but in all interviews there were like **40-50 behavioral questions** (see stage 3). For me, it’s too much.
+
+Luckily, feedback was positive and I moved to stage 3.
+
+
+# **Preparation - LeetCode, books**
+
+I won’t write much here, because nobody cares how a rejected guy prepared \
+More details are in my Microsoft/Google/Snowflake interview article.
+
+Shortly: I solved **114 LeetCode problems** and even recorded this moment.
+
+I read **“System Design Interview”** (didn’t like it much) and reread **“Designing Data-Intensive Applications”** by Kleppmann (as always, amazing).
+
+
+# **Third stage (reject)**
+
+Amazon gives final round feedback by phone, which surprised me. I’ll describe all 5 interviews based on feedback analysis.
+
+
+## 1 System design
+
+The first interview was system design. I liked it. Not many behavioral questions (3-4), task was reasonable, interviewer was nice.
+
+Later I found him on LinkedIn: 14 years at IBM and many years at Amazon. It was an honor to interview with him, especially on system design.
+
+Task: design a **notification system** that sends notifications when requested by external services.
+
+My solution (not perfect but meets requirements):
+
+
+![alt_text](images/image8.png "image_tooltip")
+
+
+Later from feedback I understood that my system design was **better than expected**. But good news ended there.
+
+
+## 2 Coding
+
+5-6 behavioral questions and trivial task: \
+**find files with specific extension and size.**
+
+Problem: I had no idea how to get file size from code, never did it before. I didn’t understand what the interviewer expected.
+
+My solution:
+
+
+![alt_text](images/image9.png "image_tooltip")
+
+
+Actually, I should assume there are system calls returning file/directory objects. But they said the solution was OK.
+
+
+## 3 Behavioral
+
+Yes, full hour of questions like: \
+“Tell me about a situation when you had conflict and how you solved it and what impact it had.”
+
+They ask **8-13 questions per hour**.
+
+I had 3 years of experience and ~10 prepared stories for leadership principles. I quickly ran out of stories and started reusing the same stories from different angles. It was annoying. Too much focus on this, in my opinion.
+
+But feedback was OK.
+
+
+## 4 Coding (or how I an Irish guy r*ped me)
+
+From the start, the interviewer was not happy. I asked “how are you”, and got answer like: \
+“as usual, no time for anything, but okay”.
+
+The first question was an OOP task for Amazon lockers. Frankly I don’t know this concept in real life, there were no Amazon lockers in Ukraine back then. I didn’t understand the requirements and asked clarifying questions for ~20 minutes.
+
+
+![alt_text](images/image10.png "image_tooltip")
+
+
+By his tone, I felt he was doing his work in parallel. Probably the “rejection” decision was made during the first 10 minutes already.
+
+After 20 minutes he stopped me: **“unfortunately we ran out of time”**. Then 3-4 behavioral questions.
+
+Then, 20 minutes before the end, he gave another coding problem.
+
+
+![alt_text](images/image11.png "image_tooltip")
+
+
+Later I found out it was similar to LeetCode, but harder. \
+Attaching the [discussion on the Leetcode](https://leetcode.com/discuss/post/545748/amazon-subsidiary-phone-concatenated-wor-uajg/) created by a guy who got exactly the same problem, and [variation of the problem on the Leetcode](https://leetcode.com/problems/concatenated-words/description/).
 
  \
-Smaller companies require B2 Czech Language, which is not a big deal for me as for slavic men, but still will require around 1 year of effort.
-
-Given the situation in the IT market, worth to say - the situation with investments, startups isn’t better, from the experience of my close friend (also ex-Microsoft) who has been running a startup for almost 3 years.
+I had 20 minutes left. I panicked and couldn't solve it.
 
 
-## Interviews / leaving Microsoft
+![alt_text](images/image12.png "image_tooltip")
 
-Based on the reasons above - I decided to move out of the Czech Republic, I wanted another tier1/tier2 company, not the Czech Republic, Europe. It deserves a separate article, but long story short: I started prepping in Feb 2025, and in mid of Summer 2025 I got offers from Snowflake and from Google. In the end decided to proceed with Snowflake.
 
-To be continued…
+This is what I wrote (wrong solution). He asked for complexity, but interrupted again with **“unfortunately we ran out of time”**.
+
+Honestly, if this was expected, I’m not on that level to solve it in 20 minutes with clarifying, coding, and complexity analysis.
+
+
+## 5 Behavioral
+
+Very nice person. The first half was relaxed, like chatting. In the second half he drilled into details so deeply that I felt like murder suspect and he is a detective.
+
+Leadership principles questions are exhausting. I’m fine with them, but not so many.
+
+
+# **Feedback**
+
+Feedback was given by phone, no proof. Short version:
+
+
+    You are a great guy, exceeded expectations in system design, but coding was very bad. So no, come back in 12 months.
+
+
+# **Conclusions**
+
+I read a lot about Amazon interview loops. People say luck matters a lot. Looks like I was unlucky, but I got experience.
+
+Everything here I also told in my video, if you don’t want to read.
+
+Thanks for reading, waiting for feedback!
