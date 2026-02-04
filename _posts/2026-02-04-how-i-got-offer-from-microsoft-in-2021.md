@@ -1,0 +1,372 @@
+---
+layout: post
+title: "How I got offer from Microsoft in 2021"
+date: 2021-02-04 01:44:48 -0000
+category: Software Engineering Life
+tags: [softwareengineeringlife]
+description: "Real Microsoft interview experience 2021: coding tasks, system design, LeetCode preparation, and offer details. Learn what they asked, how I prepared 147 problems, and why MS interview differs from Amazon FAANG interviews."
+thumbnail: /assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/logo.png
+thumbnailwide: /assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/logo-wide.png
+---
+
+* TOC
+{:toc}
+
+<!-- Copy and paste the converted output. -->
+
+<!-- You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see useful information and inline alerts.
+* ERRORs: 0
+* WARNINGs: 0
+* ALERTS: 15 -->
+
+
+
+
+<br>
+
+# **What this article is about**
+
+This is a continuation of my FAANG adventures. The previous article was about my Amazon interview experience: [https://live.andreyka26.com/interview-experience-at-aws-in-2021](https://live.andreyka26.com/interview-experience-at-aws-in-2021)
+
+Today we are talking about how Microsoft lied to me, the interview experience, what they asked me, how many stages, what the offer process is, and what location was in the offer. We will do an interview experience comparison between AWS and Microsoft.
+
+By the way, all interviews are online now, no onsite interviews due to Covid as well.
+
+
+
+
+<br>
+
+# **LinkedIn message**
+
+
+[![alt_text](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image14.png "image_tooltip")](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image14.png "image_tooltip"){:target="_blank"}
+
+
+On November 4th, 2021, I got a message on LinkedIn. At that time, I was actively preparing for the final round at Amazon, so of course I agreed.
+
+After that, I had a call with a recruiter. He gave me general information, and said (remember this): the **interview is for the company** (not a specific project), for **multiple locations** (with a possibility to choose).
+
+
+
+
+<br>
+
+# **First stage - online coding tasks again**
+
+I received a Codility test (similar to LeetCode), with 3 tasks to solve in a limited time. Unlike Amazon, I didn’t need to explain my solutions.
+
+
+[![alt_text](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image5.png "image_tooltip")](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image5.png "image_tooltip"){:target="_blank"}
+
+
+All tasks were easy and medium level.
+
+
+
+
+<br>
+
+### **First problem**
+
+
+[![alt_text](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image12.png "image_tooltip")](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image12.png "image_tooltip"){:target="_blank"}
+ 
+
+
+
+
+
+<br>
+
+### **Second problem**
+
+
+[![alt_text](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image8.png "image_tooltip")](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image8.png "image_tooltip"){:target="_blank"}
+ 
+
+
+
+
+
+<br>
+
+### **Third Problem**
+
+
+[![alt_text](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image6.png "image_tooltip")](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image6.png "image_tooltip"){:target="_blank"}
+
+
+Honestly, I don’t remember exactly how I solved them, but I managed to solve them all.
+
+
+[![alt_text](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image1.png "image_tooltip")](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image1.png "image_tooltip"){:target="_blank"}
+
+
+A few days later, I was invited to the final round that consisted of 4 interviews.
+
+
+[![alt_text](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image2.png "image_tooltip")](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image2.png "image_tooltip"){:target="_blank"}
+
+
+
+
+
+<br>
+
+# **Second stage - interview loop**
+
+As I said, there were 4 interviews in a row. Each was 45 minutes + 15 minutes break. The total process took 4 hours.
+
+
+
+
+<br>
+
+## **First interview (OOP)**
+
+I needed to design a system that can switch between elements in an imaginary client. I never had such tasks before and didn’t prepare for them, so my solution was like this:
+
+
+
+During the interview, they guided me to better ideas, for example, to use Command pattern instead of Strategy, etc. The interviewer was in a good mood, and I liked it.
+
+By the way, there were no behavioral questions in this interview.
+
+
+
+
+<br>
+
+## **Second interview**
+
+Even now I don’t fully understand what this interview was about 
+At one point, I wrote code and explained what was wrong with it. Then I explained how I would test it.
+
+
+
+Then there were SOLID questions, like:
+
+There is an interface with 10 methods:
+
+
+```
+IInt {
+  M1,
+  M2,
+  ...
+  M10
+}
+```
+
+
+Two classes implement it:
+
+
+```
+Class A : IInt {
+  M1 { behavior },
+  ...
+  M10 { behavior }
+}
+
+Class B : IInt {
+  M1 { behavior },
+  ...
+  M9() {},
+  M10() {}
+}
+```
+
+
+The second class doesn’t need methods 9 and 10. What is wrong here, and how to fix it?
+
+Behavioral questions were quite detailed about my experience, and there was a classic question: **why I want to work at Microsoft**.
+
+I also liked this interview. No pressure. We finished 15 minutes earlier and had time to chat for another 30 minutes.
+
+
+
+
+<br>
+
+## **Third interview (algorithms)**
+
+Actually, I was lucky. I got the same LeetCode problem that I had solved before. They didn’t even change the input.
+
+For fun, I’ll let you find this problem and post a link in the comments. If you are lazy - ask me in any social network, I’ll send it.
+
+
+[![alt_text](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image9.png "image_tooltip")](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image9.png "image_tooltip"){:target="_blank"}
+
+
+It was a **group anagrams** problem. Anagrams are words that are equal after sorting.
+
+And yes, I cheated a bit. After the bad Amazon algorithm experience, I didn’t say that I saw this problem before. But honestly, I didn’t remember the solution. I started writing and understood it wouldn't work, so I solved it again “from scratch”.
+
+I solved it in two ways: **O(n * m log m)** and **O(n * m)**.
+
+Behavioral questions:
+
+
+
+* The most difficult task I did
+* How I handle situations when team opinions differ
+* And this one I didn’t answer well because I didn’t fully understand it: 
+**“situation when someone was mistreated at the workplace”**
+
+I liked this interview, but the behavioral questions were strange. The interviewer looked nervous, like he was afraid of me. But still friendly.
+  
+
+
+
+<br>
+
+## **Fourth interview (system design)**
+
+We had a system that sends file events (created, updated, deleted). There is content for create/update in these events.
+
+Requirements I wrote down:
+
+
+[![alt_text](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image13.png "image_tooltip")](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image13.png "image_tooltip"){:target="_blank"}
+
+
+Actually, strong consistency was not required, I misunderstood the interviewer.
+
+**Solution:**
+
+Standard master replication + partitioning with consistent hashing (traffic spikes possible) + cache (to store last event ID per file). We assumed there is an event ID working like a logical clock. By comparing two IDs, we know which one is newer, and we discard the older ones.
+
+
+Behavioral question: task and scope of work I’m proud of.
+
+
+
+
+<br>
+
+# **Offer (MS lied to me)**
+
+After 1.5 weeks, I received an offer.
+
+
+[![alt_text](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image15.png "image_tooltip")](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image15.png "image_tooltip"){:target="_blank"}
+
+
+
+[![alt_text](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image10.png "image_tooltip")](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image10.png "image_tooltip"){:target="_blank"}
+
+
+I cannot express the amount of various feelings I had back then. I have been dreaming about tier 1 FAANG level companies since I started (2018), and now, here it is, they have considered me.
+
+There was one caveat though: the offer was for a specific location (Prague) and for a specific project (Dynamics), which was one of the reasons I left Microsoft later, more in [this article](https://live.andreyka26.com/i-left-microsoft-after-4-years). 
+I was just a bit upset, but I really wanted to try Microsoft from the inside out, and get this badge on my CV - so I agreed.
+
+The offer was for level 60 (Junior 2), however, at Epam I was Senior (fake senior I would say) back then. Later on, when I joined the Presence backend service in Teams, I confirmed for myself that I and most of the seniors in outsource with less than 5 years of experience are fake seniors, sorry. This is the conclusion I made when I saw the REAL seniors and principals in my team.
+
+
+
+
+<br>
+
+# **How I prepared**
+
+Preparation had two streams: **system design / architecture** and **leetcode problems**. I almost didn’t prepare behavioral questions.
+
+
+
+
+<br>
+
+## **Coding problems**
+
+This is the hardest part for me. For me, intelligence is the relative speed of solving new problems. If 4 people see a problem for the first time, the smarter one solves it faster (with many caveats). That’s what separates smart people from not-so-smart ones (IMHO, based on books).
+
+And I’m in the “not so smart” category. Often solutions just don’t come to my mind. So my only way is to **memorize patterns and solutions**.
+
+So from the beginning of Amazon prep, I started LeetCode.
+
+Every 3-4 problems, at least one was impossible for me. Two desires fight in your head:
+
+
+
+1. Continue thinking → huge dopamine if you solve it
+2. Look at solution → almost no pleasure, sometimes anger, but you learn
+
+A year and a half ago, I solved ~80 problems in 6 months. With the second approach, I solved ~150 problems in 3-4 months. The second approach gave me much more understanding and confidence. But you must deeply analyze the solution, solve it again in different ways, “live through” the problem.
+
+Will this guarantee solving the next similar problem? No. Don’t hope. But after 2-4 similar problems, you start feeling more confident.
+
+Very important: find good explanations. I really like **NeetCode** on YouTube.
+
+Bad explanation = rage and notebook thrown at the wall 
+
+
+
+
+<br>
+
+## **What LeetCode problems I solved**
+
+I took **Top 100 liked problems**, solved all easy and medium ones + a bunch of random problems. Then I continued solving by likes > dislikes (back then LeetCode showed the number of likes and number of dislikes for a problem).
+
+I tracked milestones in Instagram: 
+[https://www.instagram.com/stories/highlights/17939340292663489/](https://www.instagram.com/stories/highlights/17939340292663489/)
+
+
+[![alt_text](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image3.png "image_tooltip")](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image3.png "image_tooltip"){:target="_blank"}
+
+
+Statistics: Before the interview, I solved **147 problems**.
+
+Sometimes I read **CLRS (Cormen)**, mostly for graph theory.
+
+
+[![alt_text](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image11.png "image_tooltip")](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image11.png "image_tooltip"){:target="_blank"}
+
+
+
+
+
+<br>
+
+## **Architecture / system design**
+
+I read the **“System Design Interview”** book.
+
+
+[![alt_text](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image4.png "image_tooltip")](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image4.png "image_tooltip"){:target="_blank"}
+
+
+Honestly, I didn’t like it much. Good as a roadmap, but I would learn topics from other resources.
+
+For example, the consistent Hashing explanation was bad for me. I googled and understood it in 5 minutes, while the book took 20 minutes and I still didn’t get it. Maybe it was  just me being dumb.
+
+But it explains how to talk in an interview, what to ask, what techniques to use.
+
+Besides that, of course, I reread **Designing Data-Intensive Applications (Kleppmann)**. I reread it before every single interview. This book is the most valuable to me in general, not only for interviews.
+
+
+[![alt_text](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image7.png "image_tooltip")](/assets/2026-02-04-how-i-got-offer-from-microsoft-in-2021/image7.png "image_tooltip"){:target="_blank"}
+
+
+On top of that, I watched Kleppmann lectures and read articles about logical timestamps, CAP, consistency guarantees, HA techniques, etc.
+
+
+
+
+<br>
+
+# **Conclusions**
+
+I liked the Microsoft interview much more than Amazon.
+
+Fewer behavioral questions, interviewers were much more friendly, and they guided me to the correct ideas. At Amazon, it felt like the interviewer was doing his tasks while answering my questions.
+
+One downside: the feedback was positive but not detailed. Amazon told me what was good and what was bad. Apart from that, I was a bit stressed that they didn’t allow me to choose the project and relocation country, although they had promised that.
+
+If you are too lazy to read - I recorded the [same in video](https://www.youtube.com/watch?v=oVaISHBflo0).
+
+If you have questions, ask in comments or my social networks (Instagram, Telegram, Facebook, YouTube). Thanks for reading!
+

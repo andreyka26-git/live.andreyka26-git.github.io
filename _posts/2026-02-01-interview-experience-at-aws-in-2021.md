@@ -4,7 +4,7 @@ title: "Interview experience at AWS in 2021"
 date: 2021-02-01 18:56:09 -0000
 category: Software Engineering Life
 tags: [softwareengineeringlife]
-description: "Blog post."
+description: "Real AWS interview experience 2021: detailed coding questions, system design tasks, behavioral interviews, and leadership principles. Learn from actual HackerRank problems, notification system design, and 40+ behavioral questions across 5 interview rounds. Complete breakdown of Amazon's interview process, what they asked, why I failed, and lessons learned for FAANG interviews."
 thumbnail: /assets/2026-02-01-interview-experience-at-aws-in-2021/logo.png
 thumbnailwide: /assets/2026-02-01-interview-experience-at-aws-in-2021/logo-wide.png
 ---
