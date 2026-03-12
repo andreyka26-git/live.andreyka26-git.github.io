@@ -66,8 +66,8 @@ To answer these questions, there’s no other way than to encounter them, study,
 
 I realized this is pretty much the same as preparing for an exam, but without the problems to solve. So, I started grinding through this knowledge like crazy. Usually I prefer books, for example:
 
-* Clean Architecture by Uncle Bob — gave me SOLID principles and application design knowledge.
-* CLR via C by Jeffrey Richter — gave me deep knowledge of .NET internals.
+* Clean Architecture by Uncle Bob - gave me SOLID principles and application design knowledge.
+* CLR via C by Jeffrey Richter - gave me deep knowledge of .NET internals.
 * Designing Data-Intensive Applications  by Martin Kleppmann - covered storages and distributed systems.
 * SDLC I covered by googling only
 
@@ -104,7 +104,7 @@ The screen my friend sent me in few days after I signed:
 [![alt_text](/assets/2025-03-28-how-i-became-senior-at-20/image6.png "image_tooltip")](/assets/2025-03-28-how-i-became-senior-at-20/image6.png "image_tooltip"){:target="_blank"}
 
 
-It felt a bit weird. I couldn’t imagine being 20 and already a senior—like, what’s next? I clearly remember the first call on the project when the customer met the team.
+It felt a bit weird. I couldn’t imagine being 20 and already a senior - like, what’s next? I clearly remember the first call on the project when the customer met the team.
 
 The introduction was epic. I was sitting in my dorm with cockroaches around, and during the call, the manager introduced us: 'This is Yaroslav, our Frontend LEAD DEVELOPER, and this is Andrii, our BACKEND LEAD DEVELOPER. It was ridiculous, and funny.
 
@@ -133,5 +133,5 @@ The incentive might be different because outsourcing companies want to sell engi
 
 At EPAM, I saw many people around 20-23 years old who were already seniors or tech leads, just like me. Covid definitely played a role in that, but the main issue is the interview process. It’s a pretty poor way of validating candidates, as they mainly just ask how things work.
 
-I would still add some problems to solve—not necessarily LeetCode-based, but more real-world tasks. System design is definitely a must for seniors, and to understand someone's thought process, I’d ask how they would deliver a feature end-to-end. On top of that I would say experience plays a role, not only the amount of time, but the quality of the experience.
+I would still add some problems to solve - not necessarily LeetCode-based, but more real-world tasks. System design is definitely a must for seniors, and to understand someone's thought process, I’d ask how they would deliver a feature end-to-end. On top of that I would say experience plays a role, not only the amount of time, but the quality of the experience.
 

@@ -4,7 +4,7 @@ title: "Why Software Engineers Shouldn’t Start Startups"
 date: 2025-09-11 16:11:03 -0000
 category: Software Engineering Life
 tags: [softwareengineeringlife]
-description: "Thinking of starting a startup as a software engineer? Here's why it may not be the dream you expect—and why staying in engineering could be better"
+description: "Thinking of starting a startup as a software engineer? Here's why it may not be the dream you expect - and why staying in engineering could be better"
 thumbnail: /assets/2025-09-11-why-software-engineers-shouldnt-start-startups/logo.png
 thumbnailwide: /assets/2025-09-11-why-software-engineers-shouldnt-start-startups/logo-wide.png
 ---
