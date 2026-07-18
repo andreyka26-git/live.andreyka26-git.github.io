@@ -1,266 +1,216 @@
-<!-- Copy and paste the converted output. -->
-
 <!-- You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see useful information and inline alerts.
 * ERRORs: 0
 * WARNINGs: 0
-* ALERTS: 5 -->
+* ALERTS: 6 -->
 
 
-## Quick intro
+## Why you may want to read this article
 
-In the [last article](https://live.andreyka26.com/i-left-microsoft-after-4-years) we discussed the reasons to leave Microsoft after 4 years. 
+When I was preparing for all my Big Tech interviews - the first thing I was doing was Leetcode, as this part exists almost everywhere for software engineers.
 
-As a continuation - today we are talking about my interview experience in 2025-2026, and the results: got an offer at **Google** and **Snowflake**.
-
-
-## Preparation
-
-In Dec-Jan 2024 I was thinking about which country I would like to live and work in, and top candidates were Ireland and Netherlands. For sure I wanted some high load backend projects, so it is again FAANGs and tier 2 companies with typical interview flow: leetcode + system design + behavioral.
-
-Last time I was interviewing in 2021, since then I almost haven’t done Leetcode or studied System Design for 4 years till 2025. I realized I would need at least 2-3 months of 3 hours per day. I knew that my System Design is good, I always was getting positive feedback about it, but my Achilles’ heel is Leetcode and algos.
+I am doing Leetcode since 2020, solved 750 problems, got Leetcode cap, landed 3 big tech offers (Google, Microsoft, Snowflake), and today we will talk about how you should approach Leetcode for interview preparation, the tricks and lessons I learnt over the course of these years.
 
 
-### Leetcode
+## Chronology
+
+
+### 2020
+
+I have just got the fake Senior role in Epam Systems, and was thinking about what’s next. The answer automatically came to my mind: Big Tech. I still know my tech lead from the first company that got a few offers from Microsoft and AWS (however rejected them).
+
+His advice was simple: do Leetcode. And I started doing leetcode.
 
 
 ![alt_text](images/image1.png "image_tooltip")
 
 
-I started doing leetcode in Feb 2025 and I still continue doing. 
+After writing enterprise C# code for 2-3 years in outsource companies and matrix multiplication in uni - Leetcode problems seemed to be EXTREMELY hard to me, which is expected. I never was a smart guy.
 
-*If you’d like to join my community and me to solve problems every day - join my [telegram channel](https://t.me/programming_space), we are solving and discussing Leetcode Daily challenges there.*
+That time it was fighting for my EGO, I generally couldn’t believe I cannot solve some mid problem. So I kept being stuck on the same problems for 2-3 days blindly trying to come up with the solution.
 
+It was a strong ego hit. But it was even stronger when I eventually gave up and checked the solution thus realizing - there is no way in universe I could have come up with that on my own.
 
-#### Intelligence & leetcode
-
-I already shared my thoughts about intelligence before. In general, I think leetcode tests the cleverness and intelligence of the candidate. By intelligence I mean the ability of a person to solve unknown problems, or speed of solving such unknown problems. In the world of IQ it is called [fluid intelligence](https://en.wikipedia.org/wiki/Fluid_and_crystallized_intelligence).
-
-I thought I was  smart because in my home town’s school I was pretty good in math. All Ukrainian students had to pass global independent exams in 2016, and I got 170/200 score in math) in math which was not bad. But I was really trying hard, studying, going to additional hours with different teachers for 2 years before that global exam.  Then I met my university groupmates who got 199/200 and were preparing for fun for 2 weeks before the exam. That was the time I realized I’m not that smart at all, during the studying I was getting a couple of reminders about it, when they grasped uni material 3 times faster than me, solving problems and puzzles I was not able to solve at all, etc.
-
-What I was better at is grinding and discipline, well what else I can do to compensate, right? I was able to grind for a long time and build my [crystalized intelligence](https://en.wikipedia.org/wiki/Fluid_and_crystallized_intelligence), and perform at the same level just because “I have seen such a problem before”. That’s how I first got a job and first grew to higher positions: not because I was smart, but because I was grinding a lot, Lineage2 24/7 style .
-
-The conclusion is I’m bad at building intuition for new problems, because this is literally the “fluid intelligence” aspect. Therefore I need to go “crystalized intelligence way” and  grind all leetcode patterns that exist so that I will see “known” problems in the interview.
+I was demoralized and stopped doing leetcode after a few months.
 
 
-#### How did I prepare
-
-I had maybe 170-200 already solved problems before Microsoft, but after 4 years I didn’t remember any solution - so for me it was the same as starting from scratch essentially.
-
- \
-The goal was to learn different [leetcode patterns](https://leetcode.com/explore/interview/card/cheatsheets/720/resources/4723/) (do not confuse with design patterns), because mostly problems on the interview would have some variation of them, e.g. Dynamic Programming, Graphs (bfs/dfs, dijkstra, topological sort), sliding window, monotonic stack, etc.
-
-Patterns are the typical approaches (they are literally the code templates) to some type of problem to solve it optimally. Some of them you might come up with on your own, some of them - better to learn beforehands.
-
-My plan was do to the following Study Lists:
-
-
-
-* [Leetcode 75](https://leetcode.com/studyplan/leetcode-75/)
-* [Top 100 liked](https://leetcode.com/studyplan/top-100-liked/)
-* [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
-
-For consistency I started doing streams ([first stream](https://www.youtube.com/watch?v=p57HDCfM9jU)) where I was solving leetcode problems in front of an audience to emulate real interview nervousness.
-
-My personal recommendation would be TO ONLY DO LISTS, don’t even waste time on Leetcode Daily challenge. Most of the daily problems are bs, they don’t test most popular leetcode patterns, you won’t learn anything. On the other hand, lists are divided by patterns making you repeat the same topic to learn it better, and they have mostly good problems so you don’t waste your time on useless trash problems.
-
-If you haven’t done leetcode for a long time I would suggest to do the following approach:
-
-
-
-* first do all easy problems in these lists
-* then do all medium problems in these lists
-* (optionally) do all hards in these lists
-
-While you are solving - note each pattern, the code template, and a couple of canonical problems for this pattern. Believe me it is extremely helpful to “catch up” with everything 30 minutes before your coding interview.
+### 2021
 
 
 ![alt_text](images/image2.png "image_tooltip")
 
 
-My honest opinion: you must solve all the easy and mids in the lists and feel comfortable about them to say you are “ready for an interview” = 150-200 problems at least.
+One recruiter from AWS has contacted me for the interviews in September 2021. A Microsoft recruiter contacted me in October. I realized this is my chance. Of course I agreed and started preparing again. \
+ \
+This time if I couldn’t solve the problem in 2-3 hours - I’m looking for a solution. Mainly because I had a tight deadline, so ego was a lower priority. I decided to do lists, the choice landed on “[Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)”.
+
+My learning though was pretty random, so I was confusing dp with divide and conquer and with general recursive problems for example, as I was learning via practice only. But I definitely saw the progress.
+
+Before the interview I have solved all easy/mid problems from there and a couple of random questions on the leetcode.
+
+On my instagram, I posted a [story on the 8th of Dec 2021 ](https://www.instagram.com/stories/highlights/17939340292663489/)6 mins before the interview showing I have got **147 solved problems**.
+
+Spoiler: I failed the AWS interview and passed the Microsoft one.
 
 
-### System Design
+### 2022, 2023, 2024
 
-I would divide this by theory and practice
+Didn’t do any leetcode, as was busy with relocating, keep up Microsoft stock, bunch of surgeries, promotions.
 
 
-#### Theory
+### 2025 Prime
 
-For System Design I always reread “Designing Data Intensive Application” by Martin Kleppmann aka “boar book”. Soon there is going to be a second edition.
+I was pretty pissed with the Czech Visa I had, and with on-hire stocks going to be over soon, so I started looking for other opportunities.
 
 
 ![alt_text](images/image3.png "image_tooltip")
 
 
-This is required to remind you of some theoretical fundamentals. Besides that, sometimes I was reading papers, e.g. Raft paper, Redis, Kafka, CockroachDb, Cassandra, DynamoDb docs to recall how they work in the distributed environment, what are their consistency and availability guarantees. \
- \
-Besides that I have read “Distributed Systems” by Tanenbaum, but I wouldn’t recommend it for studying purposes. It is pretty hard to read, almost impossible for me to learn if this is a new concept and moderately good for recalling what you already know.
-
-The knowledge from the above resources; is required to be able to talk about non-functional requirements with your interviewer and it is essential to know all of these. It would be a plus if you could give an example of real storage that you would use in the System Design with clarifications and proofs it will provide necessary guarantees.
-
-
-#### Practice
-
-For beginners that target jun/mid positions - I would recommend “Hello Interview”. It is pretty simple, but they have a lot of flaws, and bad design decisions that I would mark as red flags, for example:
+After 3 years of rest I forgot almost everything. So I started from scratch with lists:
 
 
 
-* using Redis with Leader-follower replication in url shortener (data loss, wouldn’t fulfill uniqueness requirements)
-* doing unnecessary idempotency techniques while Card Networks (the are not covered at all btw) have mechanisms for idempotency already via authorize/capture steps.
-* using RedLock with leader-follower for distributed lock, I mean Martin Klepmann already explained in [this article ](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)why this is a bad idea.
+* [Leetcode 75](https://leetcode.com/studyplan/leetcode-75/)
+* [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
+* [Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)
 
-Another good resource is “[Jordan has no life](https://www.youtube.com/@jordanhasnolife5163)”. The guy is ex Google and I liked his solutions much more than those from Hello Interview. I never found any severe “red flag” there.
-
-Besides that, during that time Vlad Ten was doing his “System Design” [courses](https://www.youtube.com/watch?v=i-FFVM4cIXQ), and he gave me an opportunity to be a lecturer for practical sessions.
-
-Starting from that point I had two reasons to “redo” all top 10-15 System Design problems.
-
-The approach.
-
-Typically I was following these steps:
-
-
-
-* Do my own system design solution, cover typical functional and non-functional requirements.
-* Watch others’ solutions, and see what is the difference, what might not work here, what can be done better? Extend my solution with better parts of someone’s solution.
-* Ask more senior friends that are much cleverer than me to review the solution, or ask them about a particular technical problem. Kudos to [Nazarii](https://www.npiontko.pro/), my first tech lead in the first company, as he helped with many many questions.
-* Ask people who were working on a real production project that system design covers, I had bunch of people from Teams, some people from Wise to ask questions about Payment Systems, Messaging Systems, etc
-* The final one - write a POC + run benchmarks. With the AI era it is typically a few evenings.
-
-Yes it is time consuming and hard, but I find it extremely useful and enjoyable. I’m typically posting my articles in [my blog](https://andreyka26.com/payment-gateway-stripe-system-design-with-microsoft-engineer), so that other people can add more technical feedback to make it better.
-
-One important thing - typically real production systems would work quite differently than in canonical System Design Solution. The main reason is money. When you grow so big that you have distributed challenges - your product is probably making a lot of money that it is much more beneficial to reduce cost than making a new feature.
-
-One more “unpleasant” fact - you cannot be sure your solution is going to work, unless you did POC with benchmarks. But it does not mean you need to do a POC for all of the system designs (however you can easily do it with AI). The goal is to learn how to make it formally “scalable” and have some high degree of probability that it will work on some loads.
-
-In my case I did these top 10-15 System Design questions, e.g. Google Search, Uber, Ticketmaster, Stripe/Revolut, Messenger, and created a couple of [simple POCs](https://github.com/andreyka26-git/andreyka26-distributed-systems) or simulations and it was enough for me.
-
-
-## Application & Job market
-
-I started applying in May 2025. I created a basic CV in Canva and sent a couple of applications to **Cloudflare**, **Mastercard**, **Booking** and **Uber**.
-
-Since I had 3+ years in Microsoft in my CV working on a large highly distributed system - I thought that I should be on the top of the pile, but it was not the case. I got a bunch of auto rejections on CV level from ALL COMPANIES, and realized I need to put in more effort than I expected. \
-
-
-
-### Wave 1 - Confidence
-
- \
-I recreated the CV with a different template (still in Canva), reformatted it, added more measurable impact points, and checked it on Applicant Tracking System (ATS).
-
-Besides that I have sent it to my friends for review, fixed their comments and was ready to continue my journey.
-
-I just opened my phone, and started applying to everything I saw there (and has a dev office in the Netherlands, Ireland or England). A bunch of companies that I was applying to were not in my preferred locations, but I applied anyway, because it is good for interview experience. Besides that - it might give me additional leverage in the negotiation phase as you never know what they would propose in the offer.
-
-I applied to the following companies:
-
-
-
-* **Google** (referral), **AWS** and **Meta** - got online assessment for AWS, for Google and Meta - got a call with a recruiter with follow up for a technical interview.
-* **Wise** and - required recent Java experience that I didn’t have - so I was rejected but on recruiter call level.
-* **Apple**, **Uber** (again with referral), **Bolt**, **Cloudflare**, **Mastercard**, **Visa**, **Revolut** - CV level rejection.
-
-I clearly know that this is not enough for sure, so I need to continue.
-
-
-### Wave 2 - Uncertainty
-
-Given a majority of CV level rejection - I was not that confident anymore, but kept applying to tier2 product companies:
-
-
-
-* **Snowflake** - got a call with a recruiter with follow up for a technical interview
-* **Stripe** - Recruiter call reject
-* **Docker**, **Salesforce**, **MongoDB**, **Gitlab**, **X**, **Deepl**, **Binance**, **Spotify** - CV level rejection
-
-This wave dismoralled me a lot, let’s be honest, but I kept preparing and applying still with some feeling that I might not get an offer this season.
-
-
-### Wave 3 - Desperation
-
-I signed up for linkedin alerts, and started applying in Linkedin as well to almost all companies that provide relocation packages in Ireland (and some of the popular ones just to try myself):
-
-
-
-* **Intercom**, **Wincent** - got a recruiter call with follow ups.
-* **IKEA**, **Workday**, **Redhat**, **Miro**, **Contentful**, **DocuSign**, **Vercel**, **Playstation** - CV level rejection
-
-
-## Results
-
-In my previous article about Microsoft offer - I included offer email as confirmation, but unfortunately these days the offer details are mostly communicated verbally during the call, and I don’t want to be on the ban list.
-
-
-### Snowflake Offer
-
-After the recruiter call - I got technical screenings and an onsite interview loop (in Dublin). It was my first onsite interview and a good chance to see Dublin, as they pay for flying tickets and hotel. I cannot say much about the interview, but in general it is a FAANG level experience, I enjoyed it a lot.
+Besides that, I started streaming on the Microsoft terrace solving leetcode live so that I feel the exact same stress of another human being watching me doing and explaining things.
 
 
 ![alt_text](images/image4.png "image_tooltip")
 
 
-In the end they sent me an offer that I accepted.
+In July/August I finished interviews, got offers from Google and Snowflake, so it was done.
+
+Now I just wanted to have some merch from Leetcode, as some of my colleagues had T-shirts, and I didn’t. So I decided I will continue doing Leetcode Daily, collect coins and get the Leetcode cap (6500 coins).
 
 
-### Google Offer
+### 2026
 
-It was a tricky one. 
-
-I made a huge mistake - I didn't get familiarized with their leveling system. The position stated “**Software Engineer II, Cloud web - EU Headquarters**”. I genuinely believed it is for a Middle software engineer, because at Microsoft Software Engineer II - is 61-62 level, middle level.
-
-But it was not, Software Engineer II is Junior in Google.
-
-The interview was a regular FAANG level interview, a bunch of technical screening interviews with an interview loop (but online). All of them were technical algo/ds interviews with one behavioral on the interview loop.
-
-In the end I got offer for Junior level, and rejected it, because of that. But overall I was very happy to interview there, it was a great experience with great people.
-
-
-### Interview Rejections
-
-**AWS** - I didn’t pass the online assessment, solved but with bad runtime.
-
-**Meta** - got rejection after coding and linux troubleshooting interviews, however I performed well.
-
-**Intercom** - I passed all the interviews and was “accepted” for middle level, but they closed the role, and ghosted me for 2 months, and then replied that there is another position opened, but it was too late. Technically I passed, but in reality there was no offer. This was the first company that had an “AI” interview, where you need to build the app in 2 hours by using AI.
-
-**Wincent** - it was Devops position, and interviewers roasted me completely. They expected deep infra knowledge, like NUMA, terraforms, kubernetes, and extremely deep TCP/IP stack knowledge.
-
-All other companies rejected on CV/recruiter screening level. The statistics overall is pretty depressing: 2/48 offers.
+Recently I got a Leetcode cap. To be fully honest, my friend just ordered it for me because he can. Thanks to this generous man. But, it does not count right, so I anyway grinded all these coins, and now I’m eligible to wear it.
 
 
 ![alt_text](images/image5.png "image_tooltip")
 
 
-
-## Learned lessons
-
-
-### Resume
-
-Put a lot of effort into making your resume look good. Run it via ATS checker. Probably companies have a “cap” of positions you can apply within a year or half a year. Once you get 2-3 rejections - probably it autorejects all subsequent ones.
-
-Get feedback about your resume from friends or other recruiters. It will sound weird - but check it with ChatGPT as well.
-
-Only “countable” impact points in your CV. “Worked on search engine performance improvement” -> “Improved performance by 30% on every request, thus reducing latency, and infra cost (by 5%).”
+For now I only keep doing that because:
 
 
-### Preparation
 
-**Only Leetcode lists**. Don’t even waste your time on daily problems or random problems. Just do topic by topic in a consistent way, try to pick mostly “liked” questions. Write notes about every pattern with template and “canonical” problems.
+* I just used to
+* It is good “keeping me warm” thing, so I’m less stressed about layoffs, etc
+* It is some “glue” content for social media
+* At some point I want to get a leetcode hoodie for 16000 coins.
 
-**Only Python**. I was solving Leetcode with C# initially, then I switched to JS, because C# is cumbersome and takes longer to write the same thing, and eventually I switched to Python. Python is the best, not only it has all the necessary data structures, it is extremely compact, has a lot of shortcuts and syntax sugar.
+Right now I have 750 problems solved, 343 days of Leetcode daily streak.
 
-**More leetcode**. Even though I solved close to 200-300 problems before the interviews - I still failed some of the leetcode interviews that might not have been failed, and got stuck with problems that I might not have been stuck with.
 
-**System Design - ideal**. I don’t have what to add more, I had zero failed System Design interviews in my life so far.
+## Key takeaways / Advices
 
-**Apply on the company website directly**. It is my personal feeling, but I felt very little return from Linkedin Application, and much more from direct ones.
+Now let me share what I have learnt during these years, and what I have done differently.
 
-**Apply with a referral**. It does not guarantee anything, but increases the chances.
+
+### Run in your mind
+
+If you are preparing for an interview specifically - this is the most important advice for you.
+
+This should be your plan for specific problem:
+
+
+
+1. Before starting writing code - have a fully compiled mental model about your solution, you should “see” your array/graph or hashmap, and what will be happening to it and how the solution will return the correct answer.
+2. Only after having a very specific mental model of solution - you just implement it as following a specific plan.
+3. Before clicking “Run” or “Submit” you should debug line by line your code on the example input and be 100% confident it will work. This is probably one of the most important skills to be able to do it fast.
+4. When you click Run and Submit you 100% should pass the first 3 given examples that you have debugged in your mind + preferably all test cases along with edge cases that you have anticipated and run against in your mind as well.
+
+Just writing code as you go, aka “play around” with the code - is very counterproductive and you learn nothing by doing that at all.
+
+Keep in mind - drawing while thinking about a solution and when you are debugging is good - but typically you won’t have access to drawing. It is better to learn drawing and debugging via comments in the code.
+
+
+### Up to 2 hours per problem
+
+Beware that it means 2 hours for thinking about a potential solution, maybe trying it out. If you are stuck after 2 hours - check the solution. Everything after that is counterproductive. Typically, with 70-80% confidence the solution that you would see - is never the solution you can come up on your own. \
+ \
+The flow:
+
+
+
+* read problem and examples
+* focus on how you can solve input from “examples”
+* after 20-30 mins if you are stuck - start reading hints. one after 10-20 mins
+* if you don’t have any idea about the solution - just go to the solution tab
+
+Note though - usually the “solution” tab by Leetcode is much harder to understand than solutions posted by people.
+
+Sometimes Neetcode posts good solutions on Youtube.
+
+
+### How to learn new pattern
+
+In general, the majority of the problems have some specific pattern. Usually it is not something that you can come up on your own (at least come up fast). Initially you don’t know any of the patterns.
+
+Specifically for that reason, you take ONLY SINGLE pattern a day. Don’t solve problems involving 5 different patterns the same day, as it is harder to memoize and learn them.
+
+Keep notes with the patterns and code snippets along with the canonical problem for that pattern. Believe me you will thank me later. I can recall everything in 30-60 minutes before the interview now.
+
+
+![alt_text](images/image6.png "image_tooltip")
+
+
+There are simple patterns that you must know at some point: sliding window, DP, dijkstra, union find, 2 pointers, binary search, etc.
+
+There are some advanced ones that you usually don’t want to focus on, as they are rarely asked: segment tree, fenwick tree, binary lifting, kmp, etc.
+
+
+### You don’t need premium
+
+Maybe you do, but I personally never used premium at all.
+
+If you want to solve specific problems for a specific company you are preparing for -> ask somebody with a premium to send a screen, however for me it worked 0 times, I never had any problems on real interview from there.
+
+If some problems are “locked” - try find it here: [https://www.lintcode.com/](https://www.lintcode.com/)
+
+Lintcode has some “leaked” problems as far as I know, never used it myself though.
+
+
+### Do only lists
+
+As I've been solving Daily leetcode for one year already - I can say that 60-70% of all the problems there are bad problems that don’t have a specific pattern to learn/recall. Some of them are very hard problems that you will never be asked on the real interview unless you are interviewing for hedge funds.
+
+Same I can say about doing random questions - very high chane that you’ll get a bad problem.
+
+Before some years - every leetcode problem had a likes/dislike ratio - it was a very good indicator before, but not anymore, as they did the same thing as Youtube did.
+
+Now you should focus on lists only, you have 3 that I mentioned. By solving all 3 of them you’ll have 200-300 solved problems, which is enough for an average FAANG big tech interview.
+
+
+### Can I solve any problem after 750 solved ones?
+
+After all this Leetcode experience I have the following confidence / probability of being able to solve given random (potentially bad) problem:
+
+
+
+* easy - 99% I will solve it
+* mid - 50-60% I will solve it
+* hard - 20-30% I will solve it
+
+However for good problem from the list it looks like that:
+
+
+
+* easy - 100% I will solve it
+* mid - 70-90% I will solve it
+* hard - 50-60% I will solve it
+
+Interesting takeaway - you cannot do better than your genetics allow you. It is about general cleverness / IQ (fluid intelligence) and is capped by your genes and brain. You can do nothing about it.
+
+I’m in general not that clever a person (coming up with solutions to unknown problems) - therefore I upscaled my potential via discipline and crystalized intelligence. But now I’m 100% sure I cannot be top 1-2% of these algorithms competitions, and I cannot pass hedge funds for sure with my algos skill.
+
+But, the average engineer is definitely able to get the level to one that will allow them to pass up to senior positions in big tech, this is for sure true.
 
 
 ## Conclusion
 
-Thank you for reading. Please consider all of the written here as my personal opinion/experience, and please share your recommendations and experience in the comments. Don’t forget to subscribe to social media ([Telegram](@programming_space), [Instagram](https://www.instagram.com/andreyka26_se/), [X](https://x.com/andreyka26_), [Youtube](https://www.youtube.com/@andreyka26_se)) as we are doing leetcode, system design, talking about life in Dublin, AI, FAANGs, etc. Sharing as well my pet projects: [Pet4Pet](https://pet-4-pet.com/), [SyncSymptom](https://syncsymptom.com/).
+I really hope you got some inspiration and useful information from the article. Please follow me on social media as I’m solving and discussing daily leetcode there - so you’ll know which problem is bad to not waste your time: [Telegram](https://t.me/programming_space), [Instagram](https://www.instagram.com/andreyka26_se/), [Threads](https://www.threads.com/@andreyka26_se), [X](https://x.com/andreyka26_).
+
+Share your tips/tricks/takeaways in the comment section as well.
