@@ -25,10 +25,30 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 author_logo: profile.png
 author: Andrii Bui
-author_bio: Hi, my name is Andrii. I'm Software Engineer at Microsoft with 8 years of experience.
-author_location: Ukraine
+
+author_bio: Hi, my name is Andrii. I'm a Software Engineer at Microsoft with 8 years of experience. Had a bunch of big tech offers (Microsoft, Google, Snowflake); 700+ LeetCode problems solved.
+author_location: Ireland
+leetcode_solved: 700+
 typewrite-text: Life of Software Engineer at Microsoft
-hero_cover_img: sample_cover.png 
+hero_cover_img: sample_cover.png # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+
+# Projects (rendered as icon tiles on /about)
+author_projects:
+  - title: Andreyka26Tools
+    tagline: Developer toolbox
+    description: A collection of free, browser-based developer and productivity tools - no sign up, nothing leaves your browser.
+    url: https://tools.andreyka26.com/
+    icon: fas fa-toolbox
+  - title: SyncSymptom
+    tagline: Health tracking
+    description: An app to track, log and sync your health symptoms over time, so you and your doctor can spot the patterns.
+    url: https://syncsymptom.com
+    icon: fas fa-heartbeat
+  - title: Pet4Pet
+    tagline: Pet community
+    description: A community platform connecting pet owners and helping pets find new homes.
+    url: https://pet-4-pet.com
+    icon: fas fa-paw
 
 # Experiences
 author_work_experiences:
@@ -65,6 +85,7 @@ author_work_experiences:
 
 # social links
 github_username: andreyka26-git
+leetcode_username: andreyka26_
 facebook_username: profile.php?id=100017215509428
 linkedin_username: andrii-bui-a55b39166
 instagram_username: andreyka26_se
