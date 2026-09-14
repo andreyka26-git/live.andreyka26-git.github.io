@@ -4,9 +4,9 @@ const path = require("path");
 // Default metadata (overridden by frontmatter in .txt if present)
 const date =
   new Date().toISOString().replace(/T/, " ").replace(/\..+/, "") + " -0000";
-let title = "I solved 750 Leetcode problems and here what I've learnt";
+let title = "Czech Republic to Ireland relocation as Software Engineer";
 let category = "Software Engineering Life";
-let tags = "[leetcode]";
+let tags = "[softwareengineeringlife]";
 let description = "Blog post.";
 
 /**

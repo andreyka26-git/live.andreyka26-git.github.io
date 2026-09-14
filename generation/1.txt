@@ -1,216 +1,237 @@
 <!-- You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see useful information and inline alerts.
 * ERRORs: 0
 * WARNINGs: 0
-* ALERTS: 6 -->
+* ALERTS: 5 -->
 
 
-## Why you may want to read this article
+## Introduction
 
-When I was preparing for all my Big Tech interviews - the first thing I was doing was Leetcode, as this part exists almost everywhere for software engineers.
+I have been working for Microsoft for 4 years and already wrote [an article](https://live.andreyka26.com/i-left-microsoft-after-4-years) about why I decided to leave as well as [an article](https://live.andreyka26.com/i-got-an-offer-at-google-and-snowflake-in-2025) about Google and Snowflake offers.
 
-I am doing Leetcode since 2020, solved 750 problems, got Leetcode cap, landed 3 big tech offers (Google, Microsoft, Snowflake), and today we will talk about how you should approach Leetcode for interview preparation, the tricks and lessons I learnt over the course of these years.
-
-
-## Chronology
+This article will be about the relocation process from Prague (Czech Republic) to Dublin (Ireland) as a Software Engineer hired by Snowflake. Besides that I will cover the details, pros/cons about living in both of these countries that might help you to choose the one.
 
 
-### 2020
+## Relocation Process
 
-I have just got the fake Senior role in Epam Systems, and was thinking about what’s next. The answer automatically came to my mind: Big Tech. I still know my tech lead from the first company that got a few offers from Microsoft and AWS (however rejected them).
+One important point: since russia has invaded Ukraine I didn’t finish my work permit properly for the Czech Republic and had to switch to a Special Temporary Protection visa for Ukrainians. \
+The problem with it is that your experience does not count towards residence permit / citizenship - therefore I didn’t really see a stable future in the country. There is no way to switch to a work permit inside the Czech Republic.
 
-His advice was simple: do Leetcode. And I started doing leetcode.
+In 2024 I called the Irish and Netherland’s embassy in the Czech Republic to ask whether it is even possible to issue a work permit in case I find an employer. I remember the Netherlands said yes - just find an employer, and Ireland said: “no, for ukrainians we do not issue any work permits, there is not even a button on the system for that, you just go with passport”. (`Spoiler - you actually CAN do that, I’m stating that as an IRP and Critical Skills visa owner`).
+
+When I got an offer from Snowflake - due to the above information, I wanted to make sure that I would get a proper visa at that time, before I do anything.
+
+How it works in Ireland:
+
+
+
+* you apply for a **Critical Skills Employment Permit** (**CSEP**, stamp 1 visa). This gives you right to work for specific employer for 2 years (generally)
+* **Irish Residence Permit (IRP)** - this is issued for one year generally, and it gives you the right to stay in the country.
+
+It sounds to me a bit confusing, but yes these are 2 different docs and you obtain them separately as well. To get IRP you need to be in Ireland and have Critical Skills + bunch of other docs.
+
+
+### Critical Skills Visa Application
+
+Snowflake, as most of the big tech companies, hire third party partners that do visa applications for employees. In autumn 2025 they asked for a bunch of docs and I uploaded everything that was required from my side under their supervision.
+
+In 1-2 months (end of Autumn) I got the Critical Skills visa, so I could start the relocation.
+
+
+### Ireland - here we go
 
 
 ![alt_text](images/image1.png "image_tooltip")
 
 
-After writing enterprise C# code for 2-3 years in outsource companies and matrix multiplication in uni - Leetcode problems seemed to be EXTREMELY hard to me, which is expected. I never was a smart guy.
+Snowflake provided initial money for hotel / temporary accommodation and flight tickets. I booked the closest to the office hotel, and in January I was in Dublin. \
+ \
+**Critical Skills** != **Residence permit** - so how can you enter the country then? At the airport they put a stamp in the passport saying that you have 3 months stay in Ireland for getting IRP. To be precise, you just have to book an appointment within 90 days. The appointment itself can be done later. Note though, the appointment registration (online) is possible only within Ireland.
 
-That time it was fighting for my EGO, I generally couldn’t believe I cannot solve some mid problem. So I kept being stuck on the same problems for 2-3 days blindly trying to come up with the solution.
-
-It was a strong ego hit. But it was even stronger when I eventually gave up and checked the solution thus realizing - there is no way in universe I could have come up with that on my own.
-
-I was demoralized and stopped doing leetcode after a few months.
+I felt a bit of pressure, and my first goal was to get IRP. But it requires other docs, including address confirmation (lease agreement with landlord \ bills with your name). So I scheduled an IRP appointment within the first week, because the queue can be very long, delaying it by 2-3 weeks.
 
 
-### 2021
+### Home finding
+
+You’ve probably heard that the home situation in Dublin is crazy. For me it took 2-3 weeks to find an apartment, given: I was single, no pets, no kids, no need for parking, and could live in very small studios without much comfort. \
+ \
+I had probably 5-7 viewings, and during every single one I saw 10-30 people going for the same apartment. Potential tenants were sending documents right away asking to pick them.
+
+(this is my neighbour on the photo)
 
 
 ![alt_text](images/image2.png "image_tooltip")
 
 
-One recruiter from AWS has contacted me for the interviews in September 2021. A Microsoft recruiter contacted me in October. I realized this is my chance. Of course I agreed and started preparing again. \
+Maybe I was lucky, but I got a very small studio (12-14 m^2) with shared washing machines for 1600 eur monthly. Not bad quality of apartment and 20 mins walking distance to the work, which was amazing for me. One downgrade - shared washing machines are paid, so every cycle costs me something like 5-6 eur, and sometimes the meters are full so you literally cannot dry or wash until the landlord empties it.
+
+
+### PPSN (Personal Public Service Number)
+
+This is sort of a tax number or social number. Without it reported to the employer your salary is taxed 52% (emergency tax). So you want to have this one as soon as possible.
+
+For PPSN you need:
+
+
+
+* Passport
+* Address confirmation (lease agreement \ bills with your name)
+* Employment contract
+
+I have heard rumors that it is possible to apply with a temporary address confirmation doc, for example issued by hotel letterhead. But I was not able to check that because my PPSN appointment was rescheduled and hotel confirmation had already expired by that time. So I used my long term lease.
+
+Don’t forget to report your PPSN to employer’s payroll and Revenue myAccount so that you are not emergency taxed.
+
+I got my PPSN in January, and it was my first very pleasant surprise about Ireland. As slavic person who lived in Ukraine and Czech Republic - I usually expect a very bad attitude and bad mood on the day of going to any government institution. Usually people there are pretty rude, unhappy and sometimes just hate you. But Ireland - it is a completely different case. I was happy returning from the place I got PPSN, people were very kind, smiling, explaining extra stuff, asking if I need a translation, etc. This is a completely different experience, and I’m very grateful for that.
+
+
+### IRP (Irish Residence Permit)
+
+I was lucky again because I got my appointment in February. Nothing special - just prep all the docs (lease agreement, employment confirmation, passport, insurance) and went for an appointment. I remember I didn't actually need all the docs I brought, it was just me panicking, as I had only 3 months for that.
+
+Now I could exhale, I had a place to live, and docs to be / work legally here. It felt nice by that point.
+
+The next step for most engineers here is to live like that for 21 months and apply for a stamp 4 visa which is sort of “permanent residence” that makes you independent of your employer, as for now  I can only work for Snowflake and no one else.
+
+Then in 3 years (5 in total) - apply for citizenship. However right now there are moves to make it 8 years, which is okay, for me it does not change much - I loved the country and didn’t plan to move out anyway.
+
+
+## Healthcare
+
+Maybe some of you remember my experience with failed appendicitis surgery in Prague back then. I was very picky, careful and anxious about healthcare.
+
+As I understood, Ireland has a hybrid approach: private healthcare / insurance, and public one.
+
+
+### Public healthcare
+
+Under some net income you are eligible for a Medical Card which makes pretty much everything healthcare related free. It is not a static rate it depends on your expenses as well, but roughly it means 2k eur NET a month.
+
+With that card you will have free GP visits, tests, and specialist visits along with emergencies.
+
+
+### Private healthcare
+
+For income above 2k eur net a month you are paying for most of the stuff.
+
+There are a bunch of private hospitals with specialists as well as clinics with GPs. How it usually works: you have insurance that pays some parts of expenses for you. However, for specialist appointments you generally need to go to a GP. \
+I guess, this is because Europe in general has huge problems with healthcare budgeting.
+
+Therefore queues to specialists and labs might be shorter for you compared to public ones.
+
+Note though, that with private insurance - I **almost never was** fully paid back, sometimes it is 50% of coverage, sometimes it’s 80%, very rarely it is 100%. Something is not paid at all, e.g. vaccination renewal, some blood tests, etc even though it was referred by GP.
+
+
+### Emergency
+
+I am so glad I didn’t have to check, but my understanding is that the emergency room and service is flat rate (100 eur) for everything you might need to save your life (or get an appendectomy xD). If you need to call the ambulance - it can be a bit more just to get you there.
+
+
+### My experience with healthcare
+
+The first thing is how GPs work here. I was very confused, as some people said that there **IS** an assigned GP and I need to find and get assigned. Then a bunch of clinics and GPs told me that they don’t have the concept of “assigned” one.
+
+My understanding for now is that if you have private insurance, and you don’t have an assigned one - you go to whatever clinic and GP you want and pay for that. Then in case any specialist asks you - you can refer to your GP you visited last.
+
  \
-This time if I couldn’t solve the problem in 2-3 hours - I’m looking for a solution. Mainly because I had a tight deadline, so ego was a lower priority. I decided to do lists, the choice landed on “[Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)”.
+Snowflake provides health and dental private insurance (VHI) for employees. However it usually does not cover everything as I mentioned. GP visits are covered something like 60-70%, physicotherapist appointments are covered 50%, however dental (hygiene) was fully covered and I didn't even need to fill in the claim.
 
-My learning though was pretty random, so I was confusing dp with divide and conquer and with general recursive problems for example, as I was learning via practice only. But I definitely saw the progress.
+The problem is that a lot of times you need to add a claim manually, check whether it is approved and if not ask for more docs from the medical institution. One time I didn’t get my ultrasound covered, another time, same hospital - it was covered fully. My vaccination renewal was not covered at all (e.g. tetanus every 10-15 years). However it was ALL referred to by GP.
 
-Before the interview I have solved all easy/mid problems from there and a couple of random questions on the leetcode.
+ \
+Worth mentioning one more time - I’m so pleasantly surprised by how kind and nice people are here, making sure you understood everything, not angry at you whatsoever.
 
-On my instagram, I posted a [story on the 8th of Dec 2021 ](https://www.instagram.com/stories/highlights/17939340292663489/)6 mins before the interview showing I have got **147 solved problems**.
-
-Spoiler: I failed the AWS interview and passed the Microsoft one.
-
-
-### 2022, 2023, 2024
-
-Didn’t do any leetcode, as was busy with relocating, keep up Microsoft stock, bunch of surgeries, promotions.
+For now I have an amazing GP, very intelligent and knowledgeable (which is apparently rare nowadays xD), and a bunch of private and public clinics to go to if something happens. So I’m pretty happy with the situation.
 
 
-### 2025 Prime
+## Taxes
 
-I was pretty pissed with the Czech Visa I had, and with on-hire stocks going to be over soon, so I started looking for other opportunities.
+Painful topic. For all big tech enjoyers - congrats, your stocks are taxed on vesting (52%) + taxed on profit gain (33%). If you invest into an ETF - you have “Unrealised gains taxed” that taxes you every 8 years even if you don’t sell it.
+
+For the salary taxation - it is progressive.
+
+
+## Properties
+
+In my opinion it is much better than in Europe in case you want to stay here. Why so? Yes, rent prices are extremely huge in Ireland, BUT if you decide to buy an apartment, most of the time your mortgage is CHEAPER than renting (excluding initial payment)
+
+So in case you want to stay here for more than a few years - it makes sense to just go for a mortgage and save a lot on rent. Worth noting, the apartment prices in Dublin and Prague are very close to each other, however the salaries are not.
+
+
+## Czech Republic vs Ireland
+
+Given I spent four years in Prague and already almost one year in Dublin I have some things to compare. Disclaimer: it is SOLELY my opinion.
+
+Please don’t perceive it as any hate or something. I am deeply thankful to all European and non-European countries that made temporary protection, let me and other Ukrainians work and stay there. From my side I always tried to be a good resident, be grateful, never committed crimes, always paid taxes, etc.
+
+This information is only for the people who are considering relocation to Czech Republic vs Ireland and want to see some opinions.
+
+
+### Language
+
+In the Czech Republic you will need Czech for a comfortable life. Working for Microsoft does not require Czech and most of my colleagues didn’t know and didn’t learn Czech. However, any time you need to go to a Czech point, post office, healthcare institution, government institution - believe me you will struggle a lot if you don’t speak any slavic language. Besides that your  mental state will degrade a lot, cause usually you are getting hated much more for not speaking Czech.
+
+Ireland has English spoken everywhere.
+
+Personally, I didn’t learn Czech, as I didn't know whether I wanted to stay long term or not. Since I already had b2 English level - Ireland was an amazing choice from that standpoint.
+
+
+### People
+
+This is my observation, but I believe that slavic people are a bit more rude (including me and ukrainian people), and a bit more nationalists, and in terms of migration policy - they are more right wing. I saw some evidence of it throughout my life.
+
+For Ireland it is much more chill, I felt a huge difference and in general having people more talkative, nice and kind. I love that, and I want to be such a person as well (working on changing my “slavic face” expression to something that has at least some signs of a smile.)
+
+
+### Healthcare
+
+In general EU healthcare is very similar. In CZ they had more centralized semi public semi private insurance called VZP, and generally speaking you don’t have to deal with claims, it is autopaid mostly, and if it is not - it is just not - you gonna pay by cash.
+
+I don’t think there is a huge quality difference. There are always bad doctors and good doctors, and you try to find good doctors. No real punishment for mistakes (negligence, just not following protocols, etc) made by doctors (I have heard a lot of stories). Unfortunately this is the underbudgeting issue that I hope humanity will take into account.
+
+It shouldn’t be the case that I care about feature rollout more than doctors about doing some procedure or prescribing medications, but it is, unfortunately.
+
+
+### Taxes
+
+The Czech Republic is the clear winner here. First of all it has just lower taxes for both salaries AND stocks. Apart from that CZ has a rule that if you hold vested stock for more than 3-4 years - you can sell without paying capital gain tax. However the amount of stocks you will get in CZ compared to Ireland is dramatically different - go and check levels.fyi for MS for example.
+
+
+### Software Engineering Market
+
+Clear winner by Ireland. There are so many more bigger companies, almost the whole FAANG abbreviation, and tier 2 companies, whereas the big tech companies representation in Prague is only Microsoft (I mean big dev centers, not just sales offices for 50 people). There are still a bunch of tier2 companies, like Jetbrains, Pure Storage, etc, but still Ireland has so much more.
 
 
 ![alt_text](images/image3.png "image_tooltip")
 
 
-After 3 years of rest I forgot almost everything. So I started from scratch with lists:
+
+### Cost of living
+
+I would say, being a software engineer - it is pretty much the same. I didn't feel the difference in how much I save (except stocks, which is better in Ireland), as well as the difference in quality of life.
 
 
-
-* [Leetcode 75](https://leetcode.com/studyplan/leetcode-75/)
-* [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
-* [Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)
-
-Besides that, I started streaming on the Microsoft terrace solving leetcode live so that I feel the exact same stress of another human being watching me doing and explaining things.
+### Weather
 
 
 ![alt_text](images/image4.png "image_tooltip")
 
 
-In July/August I finished interviews, got offers from Google and Snowflake, so it was done.
-
-Now I just wanted to have some merch from Leetcode, as some of my colleagues had T-shirts, and I didn’t. So I decided I will continue doing Leetcode Daily, collect coins and get the Leetcode cap (6500 coins).
-
-
-### 2026
-
-Recently I got a Leetcode cap. To be fully honest, my friend just ordered it for me because he can. Thanks to this generous man. But, it does not count right, so I anyway grinded all these coins, and now I’m eligible to wear it.
+Ireland is tough here. A lot of rain, wind, and cloudy days. No snow. The Czech Republic is not much better, especially winter time - but still better. \
+ \
+Prague has snow sometimes, that I like, less windy, more sunny. On the other hand - I love Irish summer cause it is almost never more than 30 degrees. You can properly sleep during the night, you can go swim in the sea without a need to fly anywhere.
 
 
 ![alt_text](images/image5.png "image_tooltip")
 
 
-For now I only keep doing that because:
 
+### Naturalization
 
+Prague requires 10 years + Czech Language + historical/cultural questions. Ireland (as of now) requires 5 years, no tests for now except “Good character” verification (convictions incl. abroad, driving offences, court cases, cautions).
 
-* I just used to
-* It is good “keeping me warm” thing, so I’m less stressed about layoffs, etc
-* It is some “glue” content for social media
-* At some point I want to get a leetcode hoodie for 16000 coins.
-
-Right now I have 750 problems solved, 343 days of Leetcode daily streak.
-
-
-## Key takeaways / Advices
-
-Now let me share what I have learnt during these years, and what I have done differently.
-
-
-### Run in your mind
-
-If you are preparing for an interview specifically - this is the most important advice for you.
-
-This should be your plan for specific problem:
-
-
-
-1. Before starting writing code - have a fully compiled mental model about your solution, you should “see” your array/graph or hashmap, and what will be happening to it and how the solution will return the correct answer.
-2. Only after having a very specific mental model of solution - you just implement it as following a specific plan.
-3. Before clicking “Run” or “Submit” you should debug line by line your code on the example input and be 100% confident it will work. This is probably one of the most important skills to be able to do it fast.
-4. When you click Run and Submit you 100% should pass the first 3 given examples that you have debugged in your mind + preferably all test cases along with edge cases that you have anticipated and run against in your mind as well.
-
-Just writing code as you go, aka “play around” with the code - is very counterproductive and you learn nothing by doing that at all.
-
-Keep in mind - drawing while thinking about a solution and when you are debugging is good - but typically you won’t have access to drawing. It is better to learn drawing and debugging via comments in the code.
-
-
-### Up to 2 hours per problem
-
-Beware that it means 2 hours for thinking about a potential solution, maybe trying it out. If you are stuck after 2 hours - check the solution. Everything after that is counterproductive. Typically, with 70-80% confidence the solution that you would see - is never the solution you can come up on your own. \
- \
-The flow:
-
-
-
-* read problem and examples
-* focus on how you can solve input from “examples”
-* after 20-30 mins if you are stuck - start reading hints. one after 10-20 mins
-* if you don’t have any idea about the solution - just go to the solution tab
-
-Note though - usually the “solution” tab by Leetcode is much harder to understand than solutions posted by people.
-
-Sometimes Neetcode posts good solutions on Youtube.
-
-
-### How to learn new pattern
-
-In general, the majority of the problems have some specific pattern. Usually it is not something that you can come up on your own (at least come up fast). Initially you don’t know any of the patterns.
-
-Specifically for that reason, you take ONLY SINGLE pattern a day. Don’t solve problems involving 5 different patterns the same day, as it is harder to memoize and learn them.
-
-Keep notes with the patterns and code snippets along with the canonical problem for that pattern. Believe me you will thank me later. I can recall everything in 30-60 minutes before the interview now.
-
-
-![alt_text](images/image6.png "image_tooltip")
-
-
-There are simple patterns that you must know at some point: sliding window, DP, dijkstra, union find, 2 pointers, binary search, etc.
-
-There are some advanced ones that you usually don’t want to focus on, as they are rarely asked: segment tree, fenwick tree, binary lifting, kmp, etc.
-
-
-### You don’t need premium
-
-Maybe you do, but I personally never used premium at all.
-
-If you want to solve specific problems for a specific company you are preparing for -> ask somebody with a premium to send a screen, however for me it worked 0 times, I never had any problems on real interview from there.
-
-If some problems are “locked” - try find it here: [https://www.lintcode.com/](https://www.lintcode.com/)
-
-Lintcode has some “leaked” problems as far as I know, never used it myself though.
-
-
-### Do only lists
-
-As I've been solving Daily leetcode for one year already - I can say that 60-70% of all the problems there are bad problems that don’t have a specific pattern to learn/recall. Some of them are very hard problems that you will never be asked on the real interview unless you are interviewing for hedge funds.
-
-Same I can say about doing random questions - very high chane that you’ll get a bad problem.
-
-Before some years - every leetcode problem had a likes/dislike ratio - it was a very good indicator before, but not anymore, as they did the same thing as Youtube did.
-
-Now you should focus on lists only, you have 3 that I mentioned. By solving all 3 of them you’ll have 200-300 solved problems, which is enough for an average FAANG big tech interview.
-
-
-### Can I solve any problem after 750 solved ones?
-
-After all this Leetcode experience I have the following confidence / probability of being able to solve given random (potentially bad) problem:
-
-
-
-* easy - 99% I will solve it
-* mid - 50-60% I will solve it
-* hard - 20-30% I will solve it
-
-However for good problem from the list it looks like that:
-
-
-
-* easy - 100% I will solve it
-* mid - 70-90% I will solve it
-* hard - 50-60% I will solve it
-
-Interesting takeaway - you cannot do better than your genetics allow you. It is about general cleverness / IQ (fluid intelligence) and is capped by your genes and brain. You can do nothing about it.
-
-I’m in general not that clever a person (coming up with solutions to unknown problems) - therefore I upscaled my potential via discipline and crystalized intelligence. But now I’m 100% sure I cannot be top 1-2% of these algorithms competitions, and I cannot pass hedge funds for sure with my algos skill.
-
-But, the average engineer is definitely able to get the level to one that will allow them to pass up to senior positions in big tech, this is for sure true.
+However, there was an [amendment proposed](https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/press-releases/government-approval-secured-for-the-priority-drafting-of-the-irish-nationality-and-citizenship-amendment-bill-2026/) that will add language exams at least (potentially Irish language as well) and extend the residence time required from 5 to 8 years. Which is still better than in the Czech Republic.
 
 
 ## Conclusion
 
-I really hope you got some inspiration and useful information from the article. Please follow me on social media as I’m solving and discussing daily leetcode there - so you’ll know which problem is bad to not waste your time: [Telegram](https://t.me/programming_space), [Instagram](https://www.instagram.com/andreyka26_se/), [Threads](https://www.threads.com/@andreyka26_se), [X](https://x.com/andreyka26_).
-
-Share your tips/tricks/takeaways in the comment section as well.
+Actually no conclusion, just my story / opinion shared. Just let me know if it was interesting, and feel free to ask any questions or correct me about the things I mentioned here that are not right anymore.
