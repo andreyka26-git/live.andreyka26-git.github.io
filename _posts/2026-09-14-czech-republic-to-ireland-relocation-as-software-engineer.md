@@ -165,7 +165,7 @@ With that card you have free GP visits, tests, and specialist visits, along with
 
 ### **Private healthcare**
 
-For income above 2k eur net a month, you pay for most of the stuff.
+For income above 2k eur net a month, you pay for most of the stuff (except emergency).
 
 There are a bunch of private hospitals with specialists, as well as clinics with GPs. How it usually works: you have insurance that pays part of the expenses for you. However, for specialist appointments you generally need to go to a GP first. 
 I guess this is because Europe in general has huge problems with healthcare budgeting.
@@ -181,7 +181,7 @@ Note, though, that with private insurance I **was almost never** fully reimburse
 
 ### **Emergency**
 
-I am so glad I didn't have to check, but my understanding is that the emergency room and service is a flat rate (100 eur) for everything you might need to save your life (or to get an appendectomy xD). If you need to call an ambulance, it can be a bit more just to get you there.
+I am so glad I didn't have to check, but my understanding is that the emergency room and service is a flat rate (100 eur) for everything you might need to save your life (or to get an appendectomy xD).
 
 
 
@@ -222,7 +222,7 @@ As for salary taxation - it is progressive.
 
 ## **Properties**
 
-In my opinion it is much better than in Europe in case you want to stay here. Why so? Yes, rent prices are extremely high in Ireland, BUT if you decide to buy an apartment, most of the time your mortgage is CHEAPER than renting (excluding the down payment).
+In my opinion it is much better than in continental Europe in case you want to stay here. Why so? Yes, rent prices are extremely high in Ireland, BUT if you decide to buy an apartment, most of the time your mortgage is CHEAPER than renting (excluding the down payment).
 
 So in case you want to stay here for more than a few years, it makes sense to just go for a mortgage and save a lot on rent. Worth noting: apartment prices in Dublin and Prague are very close to each other; however, the salaries are not.
 
@@ -283,7 +283,7 @@ It shouldn't be the case that I care about a feature rollout more than doctors c
 
 ### **Taxes**
 
-The Czech Republic is the clear winner here. First of all, it simply has lower taxes for both salaries AND stocks. Apart from that, CZ has a rule that if you hold vested stock for more than 3-4 years, you can sell without paying capital gains tax. However, the amount of stock you will get in CZ compared to Ireland is dramatically different - go and check levels.fyi for MS, for example.
+The Czech Republic is the clear winner here. First of all, it simply has lower taxes for both salaries AND stocks. Apart from that, CZ has a rule that if you hold vested stock for more than 3 years, you can sell without paying capital gains tax. However, the amount of stock you will get in CZ compared to Ireland is dramatically different - go and check levels.fyi for MS, for example.
 
 
 
@@ -346,36 +346,3 @@ However, an [amendment has been proposed](https://www.gov.ie/en/department-of-ju
 
 Actually, no conclusion - just my story / opinion shared. Let me know if it was interesting, and feel free to ask any questions or correct me about the things I mentioned here that are no longer right.
 
-<!--
-FACTUAL MISTAKES (likely incorrect statements only):
-
-1. Public healthcare - "roughly it means 2k eur NET a month" (Medical Card threshold).
-   The base Medical Card limit for a single person under 66 living alone is about 184 eur/week net (~800 eur/month).
-   Allowable expenses such as rent can raise it, but the ~2k figure is far above the base limit.
-   The higher GP Visit Card limit (~336 eur/week) still only gives free GP visits, not "everything".
-
-2. Private healthcare - "For income above 2k eur net a month, you pay for most of the stuff."
-   Public hospital care is available to all ordinarily resident people regardless of income.
-   Public inpatient charges were abolished in 2023, and public outpatient/specialist care is free (just long waiting lists).
-   What you actually pay for without a card is mainly GP visits, prescriptions and the ED fee.
-
-3. Emergency - "If you need to call an ambulance, it can be a bit more just to get you there."
-   The HSE National Ambulance Service is free of charge in Ireland.
-   The 100 eur ED fee applies if you have no GP referral (and no medical card).
-
-4. Properties - "much better than in Europe".
-   Ireland is in Europe (and in the EU). You probably mean continental Europe / the Czech Republic.
-
-5. CZ Taxes - "hold vested stock for more than 3-4 years".
-   The Czech time test for shares is 3 years, not 3-4.
-   Also, since 2025 the exemption is capped at 40 million CZK of income per year.
-
-6. CZ Healthcare - "semi-public, semi-private insurance called VZP".
-   VZP is a public statutory health insurer, and it is not the only one (there are 7 public health insurance companies in CZ).
-
-7. Weather - "No snow" in Ireland.
-   Snow is rare, but it does happen (e.g. January 2025, and "Beast from the East" in 2018).
-
-8. Timeline - "already spent almost one year in Dublin".
-   You arrived in January 2026 and the post is dated September 2026, so it has been ~8 months.
--->
