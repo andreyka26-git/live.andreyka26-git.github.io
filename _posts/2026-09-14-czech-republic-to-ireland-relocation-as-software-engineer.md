@@ -346,3 +346,4 @@ However, an [amendment has been proposed](https://www.gov.ie/en/department-of-ju
 
 Actually, no conclusion - just my story / opinion shared. Let me know if it was interesting, and feel free to ask any questions or correct me about the things I mentioned here that are no longer right.
 
+[Telegram](https://t.me/programming_space), [Instagram](https://www.instagram.com/andreyka26_se/), [Threads](https://www.threads.com/@andreyka26_se), [X](https://x.com/andreyka26_)
